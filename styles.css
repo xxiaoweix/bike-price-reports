@@ -238,10 +238,36 @@ tbody tr:hover {
   background: #fbfaf8;
 }
 
+tbody tr.new-offer {
+  background: #f1f8f2;
+  box-shadow: inset 3px 0 0 #2f7d4a;
+}
+
+tbody tr.new-offer:hover {
+  background: #eaf5ec;
+}
+
 .price {
   color: var(--accent);
   font-weight: 700;
   white-space: nowrap;
+}
+
+.first-seen {
+  white-space: nowrap;
+}
+
+.new-badge {
+  display: block;
+  width: fit-content;
+  margin-top: 4px;
+  padding: 2px 6px;
+  border-radius: 999px;
+  color: #185c34;
+  background: #d9efdf;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
 }
 
 td small {

@@ -48,7 +48,7 @@ function offerRows(offers) {
   return offers
     .map(
       (offer) => `
-        <tr>
+        <tr class="${offer.is_new_offer ? "new-offer" : ""}">
           <td class="price">${money(offer.sale_price_usd)}</td>
           <td>
             ${money(offer.msrp_usd)}
@@ -59,6 +59,10 @@ function offerRows(offers) {
           <td>${escapeHtml(offer.color)}</td>
           <td>${escapeHtml(offer.size)}</td>
           <td class="mono">${escapeHtml(offer.upc)}</td>
+          <td class="first-seen">
+            ${escapeHtml(offer.first_seen_date)}
+            ${offer.is_new_offer ? '<span class="new-badge">本次新增</span>' : ""}
+          </td>
           <td><a href="${safeUrl(offer.url)}" target="_blank" rel="noreferrer">查看</a></td>
         </tr>`,
     )
@@ -93,7 +97,7 @@ function modelSection(model) {
           <thead>
             <tr>
               <th>价格</th><th>MSRP / 折扣</th><th>门店</th><th>地区</th>
-              <th>颜色</th><th>尺码</th><th>UPC</th><th></th>
+              <th>颜色</th><th>尺码</th><th>UPC</th><th>首次发现</th><th></th>
             </tr>
           </thead>
           <tbody>${offerRows(model.top_offers)}</tbody>
@@ -190,7 +194,7 @@ function render(report) {
     </section>
 
     <footer>
-      <div><strong>数据库运行编号 ${number(report.scan.scan_id)}</strong><span>生成时间 ${escapeHtml(report.generated_at)}</span></div>
+      <div><strong>扫描时间 ${escapeHtml(comparison.current_scan.label)}</strong><span>报告生成 ${escapeHtml(report.generated_at)}</span></div>
       <nav><a href="./latest-report.md" download>下载 Markdown</a><a href="./latest-report.json" download>下载 JSON</a></nav>
       <p>价格与库存会变化，购买前请向门店复核。</p>
     </footer>`;

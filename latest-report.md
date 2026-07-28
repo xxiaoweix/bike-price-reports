@@ -6,13 +6,13 @@
 
 ## 覆盖与健康
 
-- Scan ID：`4`
+- 扫描时间：2026-07-27 08:19–09:01 PDT
 - Profile：`conus`
 - 成功报价：853
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
 - Offer tasks：`{"complete": 853, "ignored": 107}`
 - Trek 官方美国本土店铺：1872
-- Locally 可扫描店铺：1383
+- Locally 可扫描店铺：1384
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
 - 有库存的门店-变体对：853
@@ -64,12 +64,13 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：Scan 3 · 2026-07-27 19:53–20:35 UTC → Scan 4 · 2026-07-27 21:36–22:19 UTC
+对比基准：2026-07-27 03:16–03:57 PDT → 2026-07-27 08:19–09:01 PDT
 
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / John's Cyclery
-- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / West Michigan Bike & Fitness $3,199.99 → $3,499.99
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Landry's Bicycles
-- 库存消失：Trek Domane SL 6 Gen 4 / Satin Trek Black / 56 / Bicycle Toy and Hobby Sales
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
+- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Landry's Bicycles
+- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle San Antonio West
+- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Vienna
+- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Wheel & Sprocket - Franklin
 
 ## 数据质量规则
 
