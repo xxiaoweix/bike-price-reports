@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-07-29 00:22–01:03 PDT
+- 扫描时间：2026-07-29 09:38–10:19 PDT
 - Profile：`conus`
-- 成功报价：852
+- 成功报价：850
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 852, "ignored": 113}`
+- Offer tasks：`{"complete": 850, "ignored": 107}`
 - Trek 官方美国本土店铺：1872
 - Locally 可扫描店铺：1383
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：852
+- 有库存的门店-变体对：850
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -64,9 +64,12 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-07-28 23:03–23:45 PDT → 2026-07-29 00:22–01:03 PDT
+对比基准：2026-07-29 00:22–01:03 PDT → 2026-07-29 09:38–10:19 PDT
 
-没有检测到报价变化。
+- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / White Prismatic / ML / Spoken Wheel Cyclery
+- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / SCHEELS ALL SPORTS
+- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Gahanna
+- 库存消失：Trek Domane SL 6 Gen 4 / Lunar Silver / 56 / Trek Bicycle Warwick
 
 ## 数据质量规则
 
