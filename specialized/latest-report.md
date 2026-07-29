@@ -154,3 +154,4 @@ Scope: CONUS public Specialized inventory plus crawlable BRAIN dealer storefront
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Bicycle Pro Shop](https://www.bicycleproshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 
 - Note: Coverage is limited to CONUS retailers returned from the official inventory endpoint and public BRAIN storefronts that expose the exact MPN.
+- Note: 118 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
