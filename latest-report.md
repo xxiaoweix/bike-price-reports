@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-07-28 09:49–10:42 PDT
+- 扫描时间：2026-07-28 23:03–23:45 PDT
 - Profile：`conus`
-- 成功报价：849
+- 成功报价：852
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 849, "ignored": 107}`
+- Offer tasks：`{"complete": 852, "ignored": 113}`
 - Trek 官方美国本土店铺：1872
 - Locally 可扫描店铺：1383
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：849
+- 有库存的门店-变体对：852
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -57,28 +57,24 @@
 | 价格 | MSRP | 门店 | 地点 | 颜色 | 尺码 | UPC |
 | ---: | ---: | --- | --- | --- | --- | --- |
 | [$3,199.99](https://trek.locally.com/product/2076436/trek-checkpoint-sl-6-axs-gen-3?store=11015) | $4,399.99 | SCHEELS ALL SPORTS | Springfield, IL | Matte Hex Blue/Marianas Blue | ML | 197216040170 |
+| [$3,399.99](https://trek.locally.com/product/2076436/trek-checkpoint-sl-6-axs-gen-3?store=17020) | $4,399.99 | 7 Mile Cycles | Elk Grove Village, IL | Matte Hex Blue/Marianas Blue | ML | 197216040170 |
 | [$3,499.93](https://trek.locally.com/product/2076436/trek-checkpoint-sl-6-axs-gen-3?store=33657) | $4,399.99 | Trek Bicycle Fort Collins | Fort Collins, CO | White Prismatic | ML | 197216040231 |
 | [$3,499.93](https://trek.locally.com/product/2076436/trek-checkpoint-sl-6-axs-gen-3?store=16782) | $4,399.99 | Trek Bicycle Las Vegas West | Las Vegas, NV | Matte Hex Blue/Marianas Blue | ML | 197216040170 |
 | [$3,699.97](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=16696) | $4,199.99 | Eddy's Bike Shop | Akron, OH | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
-| [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=24181) | $4,199.99 | Spring Street Sports | Chippewa Falls, WI | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-07-27 14:36–15:19 PDT → 2026-07-28 09:49–10:42 PDT
+对比基准：2026-07-28 09:49–10:42 PDT → 2026-07-28 23:03–23:45 PDT
 
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / West Michigan Bike & Fitness $3,499.99 → $3,199.99
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Landry's Bicycles
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Cranberry
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Upper East Side
-- 新增库存：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Gahanna
-- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Bike513 - Cincy's Bike Shop
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Goodales Bike Shop Nashua
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Fairfield
-- 库存消失：Trek Domane SL 5 Gen 4 / Era White/Glowstick/Coral Fade / 56 / Landry's Bicycles
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Stirling
-- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Goodales Bike Shop Nashua
-- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / SCHEELS ALL SPORTS
-- 库存消失：Trek Domane SL 6 Gen 4 / Marianas Blue / 56 / East Coast Bicycles
+- 降价：Trek Checkpoint SL 6 AXS Gen 3 / Matte Hex Blue/Marianas Blue / ML / 7 Mile Cycles $3,999.99 → $3,399.99
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Greensboro
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Midland
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Pottstown
+- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Trek Store of Charleston
+- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Revolution Bicycles $3,399.99 → $3,499.99
+- 涨价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / SCHEELS ALL SPORTS $3,199.99 → $3,799.99
+- 涨价：Trek Domane SL 6 Gen 4 / Lunar Silver / 56 / Trek Bicycle Warwick $4,599.93 → $5,149.99
+- 库存消失：Trek Domane SL 6 Gen 4 / Era White/Glowstick/Coral Fade / 56 / Trek Bicycle La Mesa
 
 ## 数据质量规则
 
