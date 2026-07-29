@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-07-28
+# Trek 每日价格扫描 — 2026-07-29
 
 状态：**COMPLETE**
 
@@ -6,7 +6,7 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-07-28 23:03–23:45 PDT
+- 扫描时间：2026-07-29 00:22–01:03 PDT
 - Profile：`conus`
 - 成功报价：852
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
@@ -64,17 +64,9 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-07-28 09:49–10:42 PDT → 2026-07-28 23:03–23:45 PDT
+对比基准：2026-07-28 23:03–23:45 PDT → 2026-07-29 00:22–01:03 PDT
 
-- 降价：Trek Checkpoint SL 6 AXS Gen 3 / Matte Hex Blue/Marianas Blue / ML / 7 Mile Cycles $3,999.99 → $3,399.99
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Greensboro
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Midland
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Pottstown
-- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Trek Store of Charleston
-- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Revolution Bicycles $3,399.99 → $3,499.99
-- 涨价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / SCHEELS ALL SPORTS $3,199.99 → $3,799.99
-- 涨价：Trek Domane SL 6 Gen 4 / Lunar Silver / 56 / Trek Bicycle Warwick $4,599.93 → $5,149.99
-- 库存消失：Trek Domane SL 6 Gen 4 / Era White/Glowstick/Coral Fade / 56 / Trek Bicycle La Mesa
+没有检测到报价变化。
 
 ## 数据质量规则
 

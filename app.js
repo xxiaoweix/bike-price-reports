@@ -149,7 +149,7 @@ function render(report) {
   root.innerHTML = `
     <header class="report-header">
       <div>
-        <p class="eyebrow">TREK PRICE TRACKER</p>
+        <p class="eyebrow">BIKE PRICE ALERTS · TREK</p>
         <h1>美国本土价格扫描</h1>
         <p class="muted mono">${escapeHtml(report.report_date)}</p>
       </div>
