@@ -82,7 +82,7 @@ function render(report) {
   document.title = `Specialized 美国本土价格扫描 · ${report.report_date || report.generated_at.slice(0, 10)}`;
   root.innerHTML = `
     <header class="report-header">
-      <div><p class="eyebrow">SPECIALIZED PRICE TRACKER</p><h1>美国本土价格扫描</h1><p class="muted mono">${escapeHtml(report.report_date || report.generated_at.slice(0, 10))}</p></div>
+      <div><p class="eyebrow">BIKE PRICE ALERTS · SPECIALIZED</p><h1>美国本土价格扫描</h1><p class="muted mono">${escapeHtml(report.report_date || report.generated_at.slice(0, 10))}</p></div>
       <div class="status partial"><strong>PUBLIC DEALER COVERAGE</strong><small>不作全国最低价声明</small></div>
     </header>
     <section class="summary-grid" aria-label="扫描摘要">
