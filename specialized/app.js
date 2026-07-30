@@ -39,6 +39,7 @@ function offerRows(offers) {
           <td>${escapeHtml(offer.color)}</td>
           <td>${escapeHtml(offer.size)}</td>
           <td class="mono">${escapeHtml(offer.sku)}</td>
+          <td>${escapeHtml(offer.first_seen_date || "—")}</td>
           <td><a href="${safeUrl(offer.url)}" target="_blank" rel="noreferrer">查看</a></td>
         </tr>`,
     )
@@ -65,8 +66,8 @@ function modelSection(model, offers) {
       </div>
       <div class="table-scroll">
         <table>
-          <thead><tr><th>价格</th><th>MSRP / 折扣</th><th>门店</th><th>地区</th><th>颜色</th><th>尺码</th><th>MPN</th><th></th></tr></thead>
-          <tbody>${shortlist.length ? offerRows(shortlist) : `<tr><td colspan="8" class="empty">有已验证报价，但本次没有 MSRP 折扣达到 ${MIN_SHORTLIST_DISCOUNT_PCT}% 的优惠。全部已验证报价仍可在 JSON/Markdown 下载中查看。</td></tr>`}</tbody>
+          <thead><tr><th>价格</th><th>MSRP / 折扣</th><th>门店</th><th>地区</th><th>颜色</th><th>尺码</th><th>MPN</th><th>首次发现</th><th></th></tr></thead>
+          <tbody>${shortlist.length ? offerRows(shortlist) : `<tr><td colspan="9" class="empty">有已验证报价，但本次没有 MSRP 折扣达到 ${MIN_SHORTLIST_DISCOUNT_PCT}% 的优惠。全部已验证报价仍可在 JSON/Markdown 下载中查看。</td></tr>`}</tbody>
         </table>
       </div>
     </section>`;
