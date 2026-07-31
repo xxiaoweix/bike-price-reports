@@ -2,7 +2,7 @@
   "schema_version": 1,
   "status": "PARTIAL",
   "report_date": "2026-07-31",
-  "generated_at": "2026-07-31T10:14:33+00:00",
+  "generated_at": "2026-07-31T20:23:59+00:00",
   "scope": "Selected men's Rapha SKUs in size M; Trek US online plus public Locally store-price observations across CONUS.",
   "target_models": [
     "Rapha Pro Team Lightweight Cycling Jersey (Men's)",
@@ -62,7 +62,7 @@
       "canonical_name": "Rapha Pro Team Lightweight Cycling Jersey (Men's)",
       "source": "trek_us_online",
       "url": "https://www.trekbikes.com/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-lightweight-cycling-jersey/p/47289/",
-      "observed_at": "2026-07-31T10:00:40+00:00",
+      "observed_at": "2026-07-31T20:09:47+00:00",
       "title": "JSY RPH PROTM LTWT M DK BL",
       "generation": null,
       "year": null,
@@ -92,14 +92,14 @@
       "discount_pct": "31.8",
       "price_match_ready": true,
       "first_seen_date": "2026-07-31",
-      "is_new_offer": true
+      "is_new_offer": false
     },
     {
       "model_key": "rapha_pro_team_training_jersey_mens",
       "canonical_name": "Rapha Pro Team Training Cycling Jersey (Men's)",
       "source": "trek_us_online",
       "url": "https://www.trekbikes.com/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-training-cycling-jersey/p/47291/",
-      "observed_at": "2026-07-31T10:00:42+00:00",
+      "observed_at": "2026-07-31T20:09:50+00:00",
       "title": "JSY RPH PRO TRNG M DKGY",
       "generation": null,
       "year": null,
@@ -129,14 +129,14 @@
       "discount_pct": "42.4",
       "price_match_ready": true,
       "first_seen_date": "2026-07-31",
-      "is_new_offer": true
+      "is_new_offer": false
     },
     {
       "model_key": "rapha_pro_team_training_jersey_mens",
       "canonical_name": "Rapha Pro Team Training Cycling Jersey (Men's)",
       "source": "trek_us_online",
       "url": "https://www.trekbikes.com/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-training-cycling-jersey/p/47291/",
-      "observed_at": "2026-07-31T10:00:42+00:00",
+      "observed_at": "2026-07-31T20:09:50+00:00",
       "title": "JSY RPH PROTEAM TRN M WT",
       "generation": null,
       "year": null,
@@ -166,7 +166,7 @@
       "discount_pct": "25.2",
       "price_match_ready": true,
       "first_seen_date": "2026-07-31",
-      "is_new_offer": true
+      "is_new_offer": false
     }
   ],
   "errors": [],
@@ -276,130 +276,9 @@
     "Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock."
   ],
   "comparison": {
-    "status": "no_previous_complete_scan",
-    "previous_report_date": null,
+    "status": "compared",
+    "previous_report_date": "2026-07-31",
     "current_report_date": "2026-07-31"
   },
-  "changes": [
-    {
-      "kind": "new_offer",
-      "listing": {
-        "model_key": "rapha_pro_team_lightweight_jersey_mens",
-        "canonical_name": "Rapha Pro Team Lightweight Cycling Jersey (Men's)",
-        "source": "trek_us_online",
-        "url": "https://www.trekbikes.com/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-lightweight-cycling-jersey/p/47289/",
-        "observed_at": "2026-07-31T10:00:40+00:00",
-        "title": "JSY RPH PROTM LTWT M DK BL",
-        "generation": null,
-        "year": null,
-        "size": "M",
-        "size_verified": true,
-        "in_stock": true,
-        "stock_verified": true,
-        "sale_price_usd": "136.5",
-        "msrp_usd": "200.0",
-        "retailer": "Trek Bikes US online",
-        "city": null,
-        "state": null,
-        "sku": "5324467",
-        "listing_id": null,
-        "upc": "5059526267416",
-        "color": "Navy",
-        "product_id": 47289,
-        "store_id": null,
-        "confidence": "verified",
-        "evidence": {
-          "parser": "trek-product-api-v1",
-          "global_stock_status": "IN_STOCK",
-          "is_purchasable": true,
-          "is_in_stock_online": true,
-          "sale_flag": true
-        },
-        "discount_pct": "31.8",
-        "price_match_ready": true,
-        "first_seen_date": "2026-07-31",
-        "is_new_offer": true
-      }
-    },
-    {
-      "kind": "new_offer",
-      "listing": {
-        "model_key": "rapha_pro_team_training_jersey_mens",
-        "canonical_name": "Rapha Pro Team Training Cycling Jersey (Men's)",
-        "source": "trek_us_online",
-        "url": "https://www.trekbikes.com/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-training-cycling-jersey/p/47291/",
-        "observed_at": "2026-07-31T10:00:42+00:00",
-        "title": "JSY RPH PRO TRNG M DKGY",
-        "generation": null,
-        "year": null,
-        "size": "M",
-        "size_verified": true,
-        "in_stock": true,
-        "stock_verified": true,
-        "sale_price_usd": "100.75",
-        "msrp_usd": "175.0",
-        "retailer": "Trek Bikes US online",
-        "city": null,
-        "state": null,
-        "sku": "5333817",
-        "listing_id": null,
-        "upc": "5059526464242",
-        "color": "Dark Grey",
-        "product_id": 47291,
-        "store_id": null,
-        "confidence": "verified",
-        "evidence": {
-          "parser": "trek-product-api-v1",
-          "global_stock_status": "IN_STOCK",
-          "is_purchasable": true,
-          "is_in_stock_online": true,
-          "sale_flag": true
-        },
-        "discount_pct": "42.4",
-        "price_match_ready": true,
-        "first_seen_date": "2026-07-31",
-        "is_new_offer": true
-      }
-    },
-    {
-      "kind": "new_offer",
-      "listing": {
-        "model_key": "rapha_pro_team_training_jersey_mens",
-        "canonical_name": "Rapha Pro Team Training Cycling Jersey (Men's)",
-        "source": "trek_us_online",
-        "url": "https://www.trekbikes.com/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-training-cycling-jersey/p/47291/",
-        "observed_at": "2026-07-31T10:00:42+00:00",
-        "title": "JSY RPH PROTEAM TRN M WT",
-        "generation": null,
-        "year": null,
-        "size": "M",
-        "size_verified": true,
-        "in_stock": true,
-        "stock_verified": true,
-        "sale_price_usd": "108.5",
-        "msrp_usd": "145.0",
-        "retailer": "Trek Bikes US online",
-        "city": null,
-        "state": null,
-        "sku": "5324502",
-        "listing_id": null,
-        "upc": "5059526346517",
-        "color": "White",
-        "product_id": 47291,
-        "store_id": null,
-        "confidence": "verified",
-        "evidence": {
-          "parser": "trek-product-api-v1",
-          "global_stock_status": "IN_STOCK",
-          "is_purchasable": true,
-          "is_in_stock_online": true,
-          "sale_flag": true
-        },
-        "discount_pct": "25.2",
-        "price_match_ready": true,
-        "first_seen_date": "2026-07-31",
-        "is_new_offer": true
-      }
-    }
-  ]
+  "changes": []
 }

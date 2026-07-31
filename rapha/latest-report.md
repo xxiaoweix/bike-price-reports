@@ -23,4 +23,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Online inventory is from Trek US. Local inventory and prices are public Locally widget observations for the exact selected SKU.
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 
-- Comparison: no_previous_complete_scan against no prior report; changes=3
+- Comparison: compared against 2026-07-31; changes=0
