@@ -27,11 +27,11 @@ const safeUrl = (value) => {
   }
 };
 
-function offerRows(offers) {
+function offerRows(offers, tableId) {
   return offers
     .map(
       (offer) => `
-        <tr>
+        <tr data-page-row="${tableId}" class="${offer.is_new_offer ? "new-offer" : ""}">
           <td class="price">${money(offer.sale_price_usd)}</td>
           <td>${money(offer.msrp_usd)}<small>${offer.discount_pct ? `低 ${escapeHtml(offer.discount_pct)}%` : "—"}</small></td>
           <td>${escapeHtml(offer.retailer)}</td>
@@ -39,17 +39,73 @@ function offerRows(offers) {
           <td>${escapeHtml(offer.color)}</td>
           <td>${escapeHtml(offer.size)}</td>
           <td class="mono">${escapeHtml(offer.sku)}</td>
-          <td>${escapeHtml(offer.first_seen_date || "—")}</td>
+          <td class="first-seen">${escapeHtml(offer.first_seen_date || "—")}${offer.is_new_offer ? '<span class="new-badge">本次新增</span>' : ""}</td>
           <td><a href="${safeUrl(offer.url)}" target="_blank" rel="noreferrer">查看</a></td>
         </tr>`,
     )
     .join("");
 }
 
+function paginationControls(tableId, count) {
+  return `
+    <div class="table-pagination" data-pagination="${tableId}">
+      <label>每页
+        <select data-page-size="${tableId}">
+          <option value="5">5</option>
+          <option value="10" selected>10</option>
+          <option value="20">20</option>
+        </select>
+        条
+      </label>
+      <span class="pagination-status" data-pagination-status="${tableId}">显示 1–${Math.min(10, count)} / ${count}</span>
+      <button type="button" data-page-prev="${tableId}">上一页</button>
+      <button type="button" data-page-next="${tableId}">下一页</button>
+    </div>`;
+}
+
+function enablePagination() {
+  root.querySelectorAll("[data-pagination]").forEach((controls) => {
+    const tableId = controls.dataset.pagination;
+    const rows = [...root.querySelectorAll(`tr[data-page-row="${tableId}"]`)];
+    const select = controls.querySelector("select");
+    const status = controls.querySelector("[data-pagination-status]");
+    const previous = controls.querySelector("[data-page-prev]");
+    const next = controls.querySelector("[data-page-next]");
+    let page = 1;
+    const update = () => {
+      const pageSize = Number(select.value);
+      const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
+      page = Math.min(page, totalPages);
+      const start = (page - 1) * pageSize;
+      const end = Math.min(start + pageSize, rows.length);
+      rows.forEach((row, index) => {
+        row.hidden = index < start || index >= end;
+      });
+      status.textContent = `显示 ${start + 1}–${end} / ${rows.length}`;
+      previous.disabled = page === 1;
+      next.disabled = page === totalPages;
+    };
+    select.addEventListener("change", () => {
+      page = 1;
+      update();
+    });
+    previous.addEventListener("click", () => {
+      page -= 1;
+      update();
+    });
+    next.addEventListener("click", () => {
+      page += 1;
+      update();
+    });
+    update();
+  });
+}
+
 function modelSection(model, offers) {
   const allOffers = [...offers].sort((left, right) => Number(left.sale_price_usd) - Number(right.sale_price_usd));
   const shortlist = allOffers.filter((offer) => Number(offer.discount_pct ?? 0) >= MIN_SHORTLIST_DISCOUNT_PCT);
   const lowest = shortlist[0];
+  const tableId = `offers-${model.replace(/[^a-z0-9]+/gi, "-")}`;
   const sizes = [...new Set(allOffers.map((offer) => offer.size).filter(Boolean))].join(", ") || "56, 58";
   return `
     <section class="panel model">
@@ -67,9 +123,10 @@ function modelSection(model, offers) {
       <div class="table-scroll">
         <table>
           <thead><tr><th>价格</th><th>MSRP / 折扣</th><th>门店</th><th>地区</th><th>颜色</th><th>尺码</th><th>MPN</th><th>首次发现</th><th></th></tr></thead>
-          <tbody>${shortlist.length ? offerRows(shortlist) : `<tr><td colspan="9" class="empty">有已验证报价，但本次没有 MSRP 折扣达到 ${MIN_SHORTLIST_DISCOUNT_PCT}% 的优惠。全部已验证报价仍可在 JSON/Markdown 下载中查看。</td></tr>`}</tbody>
+          <tbody>${shortlist.length ? offerRows(shortlist, tableId) : `<tr><td colspan="9" class="empty">有已验证报价，但本次没有 MSRP 折扣达到 ${MIN_SHORTLIST_DISCOUNT_PCT}% 的优惠。全部已验证报价仍可在 JSON/Markdown 下载中查看。</td></tr>`}</tbody>
         </table>
       </div>
+      ${shortlist.length ? paginationControls(tableId, shortlist.length) : ""}
     </section>`;
 }
 
@@ -102,6 +159,7 @@ function render(report) {
       <div><strong>报告生成 ${escapeHtml(report.generated_at)}</strong><span>购买前请向门店复核库存、颜色和尺码。</span></div>
       <nav><a href="./latest-report.md" download>下载 Markdown</a><a href="./latest-report.json" download>下载 JSON</a><a href="../">Trek 报告</a></nav>
     </footer>`;
+  enablePagination();
 }
 
 fetch("./latest-report.json", { cache: "no-store" })

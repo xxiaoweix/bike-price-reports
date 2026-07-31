@@ -44,11 +44,11 @@ const changeLabel = (kind) =>
     offer_disappeared: "库存消失",
   })[kind] || kind;
 
-function offerRows(offers) {
+function offerRows(offers, tableId) {
   return offers
     .map(
       (offer) => `
-        <tr class="${offer.is_new_offer ? "new-offer" : ""}">
+        <tr data-page-row="${tableId}" class="${offer.is_new_offer ? "new-offer" : ""}">
           <td class="price">${money(offer.sale_price_usd)}</td>
           <td>
             ${money(offer.msrp_usd)}
@@ -69,8 +69,65 @@ function offerRows(offers) {
     .join("");
 }
 
+function paginationControls(tableId, count) {
+  return `
+    <div class="table-pagination" data-pagination="${tableId}">
+      <label>每页
+        <select data-page-size="${tableId}">
+          <option value="5">5</option>
+          <option value="10" selected>10</option>
+          <option value="20">20</option>
+        </select>
+        条
+      </label>
+      <span class="pagination-status" data-pagination-status="${tableId}">显示 1–${Math.min(10, count)} / ${count}</span>
+      <button type="button" data-page-prev="${tableId}">上一页</button>
+      <button type="button" data-page-next="${tableId}">下一页</button>
+    </div>`;
+}
+
+function enablePagination() {
+  root.querySelectorAll("[data-pagination]").forEach((controls) => {
+    const tableId = controls.dataset.pagination;
+    const rows = [...root.querySelectorAll(`tr[data-page-row="${tableId}"]`)];
+    const select = controls.querySelector("select");
+    const status = controls.querySelector("[data-pagination-status]");
+    const previous = controls.querySelector("[data-page-prev]");
+    const next = controls.querySelector("[data-page-next]");
+    let page = 1;
+    const update = () => {
+      const pageSize = Number(select.value);
+      const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
+      page = Math.min(page, totalPages);
+      const start = (page - 1) * pageSize;
+      const end = Math.min(start + pageSize, rows.length);
+      rows.forEach((row, index) => {
+        row.hidden = index < start || index >= end;
+      });
+      status.textContent = `显示 ${start + 1}–${end} / ${rows.length}`;
+      previous.disabled = page === 1;
+      next.disabled = page === totalPages;
+    };
+    select.addEventListener("change", () => {
+      page = 1;
+      update();
+    });
+    previous.addEventListener("click", () => {
+      page -= 1;
+      update();
+    });
+    next.addEventListener("click", () => {
+      page += 1;
+      update();
+    });
+    update();
+  });
+}
+
 function modelSection(model) {
-  const lowest = model.lowest;
+  const lowest = model.shortlist_lowest;
+  const tableId = `offers-${model.model_key}`;
+  const offers = model.top_offers;
   return `
     <section class="panel model">
       <div class="section-heading">
@@ -79,13 +136,13 @@ function modelSection(model) {
           <p>
             目标尺码 ${escapeHtml(model.target_sizes.join(", "))} ·
             ${number(model.store_count)} 家门店 ·
-            ${number(model.offer_count)} 个有效报价组合
+            ${number(model.offer_count)} 个有效报价组合 · 短名单展示折扣至少 10% 的前五个不同价格
           </p>
         </div>
         ${
           lowest
             ? `<div class="minimum">
-                <span>最低已验证价格</span>
+                <span>短名单最低已验证价格</span>
                 <strong>${money(lowest.sale_price_usd)}</strong>
                 <small>MSRP ${money(lowest.msrp_usd)} · 低 ${escapeHtml(lowest.discount_pct || "0")}%</small>
               </div>`
@@ -100,9 +157,10 @@ function modelSection(model) {
               <th>颜色</th><th>尺码</th><th>UPC</th><th>首次发现</th><th></th>
             </tr>
           </thead>
-          <tbody>${offerRows(model.top_offers)}</tbody>
+          <tbody>${offers.length ? offerRows(offers, tableId) : '<tr><td colspan="9" class="empty">本次没有折扣达到 10% 的已验证报价。</td></tr>'}</tbody>
         </table>
       </div>
+      ${offers.length ? paginationControls(tableId, offers.length) : ""}
     </section>`;
 }
 
@@ -198,6 +256,7 @@ function render(report) {
       <nav><a href="./latest-report.md" download>下载 Markdown</a><a href="./latest-report.json" download>下载 JSON</a></nav>
       <p>价格与库存会变化，购买前请向门店复核。</p>
     </footer>`;
+  enablePagination();
 }
 
 fetch("./latest-report.json", { cache: "no-store" })
