@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-07-31 03:00–03:41 PDT
+- 扫描时间：2026-07-31 09:56–10:40 PDT
 - Profile：`conus`
-- 成功报价：840
+- 成功报价：841
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 840, "ignored": 108}`
-- Trek 官方美国本土店铺：1873
-- Locally 可扫描店铺：1374
+- Offer tasks：`{"complete": 841, "ignored": 104}`
+- Trek 官方美国本土店铺：1874
+- Locally 可扫描店铺：1384
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：840
+- 有库存的门店-变体对：841
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -523,17 +523,12 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-07-30 18:39–19:22 PDT → 2026-07-31 03:00–03:41 PDT
+对比基准：2026-07-31 03:00–03:41 PDT → 2026-07-31 09:56–10:40 PDT
 
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Arnold Bike Doctor $3,199.99 → $2,699.97
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Arnold Bike Doctor $3,499.99 → $2,999.97
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Kirkland Bicycle $3,399.99 → $2,999.97
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Old Town Bike Shop $3,499.99 → $2,999.97
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Old Town Bike Shop $3,499.99 → $2,999.97
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Rochester Bike Shop $3,499.99 → $3,399.99
-- 涨价：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle North Raleigh $3,999.93 → $5,099.99
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Fredericksburg
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Ray's Bike Shop - Bay City
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Sunnyside Sports $3,500.00 → $3,499.99
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Ray's Bike Shop - Bay City
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
+- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle North Raleigh
 
 ## 数据质量规则
 
