@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "report_date": "2026-07-31",
-  "generated_at": "2026-07-31T01:52:50+00:00",
+  "generated_at": "2026-07-31T10:12:35+00:00",
   "scope": "CONUS public Specialized inventory discovery + compatible public storefront verification",
   "coverage_method": "conus_grid_300_miles",
   "target_models": [
@@ -82,7 +82,7 @@
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.energycitybikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:40:55+00:00",
+      "observed_at": "2026-07-31T10:01:11+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -132,14 +132,15 @@
       },
       "discount_pct": "23.7",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.energycitybikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:52+00:00",
+      "observed_at": "2026-07-31T10:04:59+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -189,14 +190,15 @@
       },
       "discount_pct": "23.7",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.kozy.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:00+00:00",
+      "observed_at": "2026-07-31T10:06:07+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -236,14 +238,15 @@
       },
       "discount_pct": "20.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.wdbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:40:58+00:00",
+      "observed_at": "2026-07-31T10:01:16+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -283,14 +286,167 @@
       },
       "discount_pct": "7.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
+    },
+    {
+      "model_key": "roubaix_sl8_sport_2026",
+      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+      "source": "specialized_brain",
+      "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+      "observed_at": "2026-07-31T10:01:27+00:00",
+      "title": "Specialized Roubaix SL8 Sport - 2026",
+      "generation": null,
+      "year": 2026,
+      "size": "56",
+      "size_verified": true,
+      "in_stock": true,
+      "stock_verified": true,
+      "sale_price_usd": "3499.99",
+      "msrp_usd": "3799.99",
+      "retailer": "Landis Cyclery Inc",
+      "city": "Tempe",
+      "state": "AZ",
+      "sku": "94426-6056",
+      "listing_id": null,
+      "upc": null,
+      "color": "Gloss Obsidian Metallic/Dune White",
+      "product_id": null,
+      "store_id": null,
+      "confidence": "verified",
+      "evidence": {
+        "parser": "specialized-brain-v1",
+        "retailer_stock": "OTHERSTOCK",
+        "page_mpns": [
+          "94426-6056",
+          "94426-6058",
+          "94426-6061",
+          "94426-6156"
+        ],
+        "pickup_available": true,
+        "prices": [
+          "3499.99",
+          "3799.99",
+          "3499.99",
+          "3799.99"
+        ],
+        "add_to_cart": true
+      },
+      "discount_pct": "7.9",
+      "price_match_ready": true,
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
+    },
+    {
+      "model_key": "roubaix_sl8_sport_2026",
+      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+      "source": "specialized_brain",
+      "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+      "observed_at": "2026-07-31T10:02:21+00:00",
+      "title": "Specialized Roubaix SL8 Sport",
+      "generation": null,
+      "year": 2026,
+      "size": "56",
+      "size_verified": true,
+      "in_stock": true,
+      "stock_verified": true,
+      "sale_price_usd": "3499.99",
+      "msrp_usd": "3800.00",
+      "retailer": "Kens Bike-Ski-Board",
+      "city": "Davis",
+      "state": "CA",
+      "sku": "94426-6056",
+      "listing_id": null,
+      "upc": null,
+      "color": "Gloss Obsidian Metallic/Dune White",
+      "product_id": null,
+      "store_id": null,
+      "confidence": "verified",
+      "evidence": {
+        "parser": "specialized-brain-v1",
+        "retailer_stock": "INSTOCK",
+        "page_mpns": [
+          "94426-6044",
+          "94426-6049",
+          "94426-6052",
+          "94426-6054",
+          "94426-6056",
+          "94426-6061",
+          "94426-6144",
+          "94426-6149",
+          "94426-6152",
+          "94426-6154",
+          "94426-6156",
+          "94426-6158",
+          "94426-6161"
+        ],
+        "pickup_available": true,
+        "prices": [
+          "3499.99",
+          "3800.00",
+          "3800.00"
+        ],
+        "add_to_cart": true
+      },
+      "discount_pct": "7.9",
+      "price_match_ready": true,
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
+    },
+    {
+      "model_key": "roubaix_sl8_sport_2026",
+      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+      "source": "specialized_brain",
+      "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+      "observed_at": "2026-07-31T10:03:37+00:00",
+      "title": "Specialized Roubaix SL8 Sport - 2026",
+      "generation": null,
+      "year": 2026,
+      "size": "58",
+      "size_verified": true,
+      "in_stock": true,
+      "stock_verified": true,
+      "sale_price_usd": "3499.99",
+      "msrp_usd": "3799.99",
+      "retailer": "Landis Cyclery Inc",
+      "city": "Tempe",
+      "state": "AZ",
+      "sku": "94426-6058",
+      "listing_id": null,
+      "upc": null,
+      "color": "Gloss Obsidian Metallic/Dune White",
+      "product_id": null,
+      "store_id": null,
+      "confidence": "verified",
+      "evidence": {
+        "parser": "specialized-brain-v1",
+        "retailer_stock": "INSTOCK",
+        "page_mpns": [
+          "94426-6056",
+          "94426-6058",
+          "94426-6061",
+          "94426-6156"
+        ],
+        "pickup_available": true,
+        "prices": [
+          "3499.99",
+          "3799.99",
+          "3499.99",
+          "3799.99"
+        ],
+        "add_to_cart": true
+      },
+      "discount_pct": "7.9",
+      "price_match_ready": true,
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.hangar15bicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:43+00:00",
+      "observed_at": "2026-07-31T10:03:51+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -339,14 +495,119 @@
       },
       "discount_pct": "7.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
+    },
+    {
+      "model_key": "roubaix_sl8_sport_2026",
+      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+      "source": "specialized_brain",
+      "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+      "observed_at": "2026-07-31T10:05:11+00:00",
+      "title": "Specialized Roubaix SL8 Sport - 2026",
+      "generation": null,
+      "year": 2026,
+      "size": "56",
+      "size_verified": true,
+      "in_stock": true,
+      "stock_verified": true,
+      "sale_price_usd": "3499.99",
+      "msrp_usd": "3799.99",
+      "retailer": "Landis Cyclery Inc",
+      "city": "Tempe",
+      "state": "AZ",
+      "sku": "94426-6156",
+      "listing_id": null,
+      "upc": null,
+      "color": "Gloss Vivid Red/Obsidian",
+      "product_id": null,
+      "store_id": null,
+      "confidence": "verified",
+      "evidence": {
+        "parser": "specialized-brain-v1",
+        "retailer_stock": "INSTOCK",
+        "page_mpns": [
+          "94426-6056",
+          "94426-6058",
+          "94426-6061",
+          "94426-6156"
+        ],
+        "pickup_available": true,
+        "prices": [
+          "3499.99",
+          "3799.99",
+          "3499.99",
+          "3799.99"
+        ],
+        "add_to_cart": true
+      },
+      "discount_pct": "7.9",
+      "price_match_ready": true,
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
+    },
+    {
+      "model_key": "roubaix_sl8_sport_2026",
+      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+      "source": "specialized_brain",
+      "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+      "observed_at": "2026-07-31T10:05:57+00:00",
+      "title": "Specialized Roubaix SL8 Sport",
+      "generation": null,
+      "year": 2026,
+      "size": "56",
+      "size_verified": true,
+      "in_stock": true,
+      "stock_verified": true,
+      "sale_price_usd": "3499.99",
+      "msrp_usd": "3800.00",
+      "retailer": "Kens Bike-Ski-Board",
+      "city": "Davis",
+      "state": "CA",
+      "sku": "94426-6156",
+      "listing_id": null,
+      "upc": null,
+      "color": "Gloss Vivid Red/Obsidian",
+      "product_id": null,
+      "store_id": null,
+      "confidence": "verified",
+      "evidence": {
+        "parser": "specialized-brain-v1",
+        "retailer_stock": "INSTOCK",
+        "page_mpns": [
+          "94426-6044",
+          "94426-6049",
+          "94426-6052",
+          "94426-6054",
+          "94426-6056",
+          "94426-6061",
+          "94426-6144",
+          "94426-6149",
+          "94426-6152",
+          "94426-6154",
+          "94426-6156",
+          "94426-6158",
+          "94426-6161"
+        ],
+        "pickup_available": true,
+        "prices": [
+          "3499.99",
+          "3800.00",
+          "3800.00"
+        ],
+        "add_to_cart": true
+      },
+      "discount_pct": "7.9",
+      "price_match_ready": true,
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.hangar15bicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:18+00:00",
+      "observed_at": "2026-07-31T10:07:23+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -395,14 +656,71 @@
       },
       "discount_pct": "7.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
+    },
+    {
+      "model_key": "roubaix_sl8_sport_2026",
+      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+      "source": "specialized_brain",
+      "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+      "observed_at": "2026-07-31T10:07:38+00:00",
+      "title": "Specialized Roubaix SL8 Sport",
+      "generation": null,
+      "year": 2026,
+      "size": "58",
+      "size_verified": true,
+      "in_stock": true,
+      "stock_verified": true,
+      "sale_price_usd": "3499.99",
+      "msrp_usd": "3800.00",
+      "retailer": "Kens Bike-Ski-Board",
+      "city": "Davis",
+      "state": "CA",
+      "sku": "94426-6158",
+      "listing_id": null,
+      "upc": null,
+      "color": "Gloss Vivid Red/Obsidian",
+      "product_id": null,
+      "store_id": null,
+      "confidence": "verified",
+      "evidence": {
+        "parser": "specialized-brain-v1",
+        "retailer_stock": "OTHERSTOCK",
+        "page_mpns": [
+          "94426-6044",
+          "94426-6049",
+          "94426-6052",
+          "94426-6054",
+          "94426-6056",
+          "94426-6061",
+          "94426-6144",
+          "94426-6149",
+          "94426-6152",
+          "94426-6154",
+          "94426-6156",
+          "94426-6158",
+          "94426-6161"
+        ],
+        "pickup_available": true,
+        "prices": [
+          "3499.99",
+          "3800.00",
+          "3800.00"
+        ],
+        "add_to_cart": true
+      },
+      "discount_pct": "7.9",
+      "price_match_ready": true,
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.ctbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:25+00:00",
+      "observed_at": "2026-07-31T10:02:37+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -450,14 +768,15 @@
       },
       "discount_pct": "6.6",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.ctbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:06+00:00",
+      "observed_at": "2026-07-31T10:06:12+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -505,14 +824,15 @@
       },
       "discount_pct": "6.6",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.kylesbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:53+00:00",
+      "observed_at": "2026-07-31T10:02:03+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -554,14 +874,15 @@
       },
       "discount_pct": "3.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.attitudesports.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:23+00:00",
+      "observed_at": "2026-07-31T10:02:34+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -609,14 +930,15 @@
       },
       "discount_pct": "3.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.kylesbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:33+00:00",
+      "observed_at": "2026-07-31T10:03:42+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -658,14 +980,15 @@
       },
       "discount_pct": "3.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bluewheel.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:46+00:00",
+      "observed_at": "2026-07-31T10:03:53+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -703,14 +1026,15 @@
       },
       "discount_pct": "3.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bluewheel.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:20+00:00",
+      "observed_at": "2026-07-31T10:05:27+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -748,14 +1072,15 @@
       },
       "discount_pct": "3.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.attitudesports.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:04+00:00",
+      "observed_at": "2026-07-31T10:06:10+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -803,14 +1128,15 @@
       },
       "discount_pct": "3.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.pearlandbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:40:49+00:00",
+      "observed_at": "2026-07-31T10:01:06+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -845,14 +1171,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bearmountainbikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:40:51+00:00",
+      "observed_at": "2026-07-31T10:01:08+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -889,59 +1216,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
-    },
-    {
-      "model_key": "roubaix_sl8_sport_2026",
-      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
-      "source": "specialized_brain",
-      "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:14+00:00",
-      "title": "Specialized Roubaix SL8 Sport - 2026",
-      "generation": null,
-      "year": 2026,
-      "size": "56",
-      "size_verified": true,
-      "in_stock": true,
-      "stock_verified": true,
-      "sale_price_usd": "3799.99",
-      "msrp_usd": "3799.99",
-      "retailer": "Landis Cyclery Inc",
-      "city": "Tempe",
-      "state": "AZ",
-      "sku": "94426-6056",
-      "listing_id": null,
-      "upc": null,
-      "color": "Gloss Obsidian Metallic/Dune White",
-      "product_id": null,
-      "store_id": null,
-      "confidence": "verified",
-      "evidence": {
-        "parser": "specialized-brain-v1",
-        "retailer_stock": "OTHERSTOCK",
-        "page_mpns": [
-          "94426-6056",
-          "94426-6058",
-          "94426-6061",
-          "94426-6156"
-        ],
-        "pickup_available": true,
-        "prices": [
-          "3799.99",
-          "3799.99"
-        ],
-        "add_to_cart": true
-      },
-      "discount_pct": "0.0",
-      "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.ubcbike.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:19+00:00",
+      "observed_at": "2026-07-31T10:01:29+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -991,14 +1274,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.uccyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:44+00:00",
+      "observed_at": "2026-07-31T10:01:53+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1033,14 +1317,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.orangecycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:49+00:00",
+      "observed_at": "2026-07-31T10:02:00+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1085,14 +1370,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.encinabicyclecenters.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:05+00:00",
+      "observed_at": "2026-07-31T10:02:16+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -1129,67 +1415,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
-    },
-    {
-      "model_key": "roubaix_sl8_sport_2026",
-      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
-      "source": "specialized_brain",
-      "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:10+00:00",
-      "title": "Specialized Roubaix SL8 Sport",
-      "generation": null,
-      "year": 2026,
-      "size": "56",
-      "size_verified": true,
-      "in_stock": true,
-      "stock_verified": true,
-      "sale_price_usd": "3799.99",
-      "msrp_usd": "3799.99",
-      "retailer": "Kens Bike-Ski-Board",
-      "city": "Davis",
-      "state": "CA",
-      "sku": "94426-6056",
-      "listing_id": null,
-      "upc": null,
-      "color": "Gloss Obsidian Metallic/Dune White",
-      "product_id": null,
-      "store_id": null,
-      "confidence": "verified",
-      "evidence": {
-        "parser": "specialized-brain-v1",
-        "retailer_stock": "INSTOCK",
-        "page_mpns": [
-          "94426-6044",
-          "94426-6049",
-          "94426-6052",
-          "94426-6054",
-          "94426-6056",
-          "94426-6061",
-          "94426-6144",
-          "94426-6149",
-          "94426-6152",
-          "94426-6154",
-          "94426-6156",
-          "94426-6158",
-          "94426-6161"
-        ],
-        "pickup_available": true,
-        "prices": [
-          "3799.99"
-        ],
-        "add_to_cart": true
-      },
-      "discount_pct": "0.0",
-      "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.calistogabikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:11+00:00",
+      "observed_at": "2026-07-31T10:02:22+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1236,14 +1470,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:19+00:00",
+      "observed_at": "2026-07-31T10:02:30+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1293,14 +1528,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclesportsinc.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:21+00:00",
+      "observed_at": "2026-07-31T10:02:32+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1336,14 +1572,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.tuckahoebikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:27+00:00",
+      "observed_at": "2026-07-31T10:02:39+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1391,14 +1628,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:37+00:00",
+      "observed_at": "2026-07-31T10:02:47+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1445,14 +1683,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:41+00:00",
+      "observed_at": "2026-07-31T10:02:51+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1502,14 +1741,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.skihut.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:49+00:00",
+      "observed_at": "2026-07-31T10:02:58+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1543,14 +1783,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.exetercycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:56+00:00",
+      "observed_at": "2026-07-31T10:03:06+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1584,59 +1825,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
-    },
-    {
-      "model_key": "roubaix_sl8_sport_2026",
-      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
-      "source": "specialized_brain",
-      "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:29+00:00",
-      "title": "Specialized Roubaix SL8 Sport - 2026",
-      "generation": null,
-      "year": 2026,
-      "size": "58",
-      "size_verified": true,
-      "in_stock": true,
-      "stock_verified": true,
-      "sale_price_usd": "3799.99",
-      "msrp_usd": "3799.99",
-      "retailer": "Landis Cyclery Inc",
-      "city": "Tempe",
-      "state": "AZ",
-      "sku": "94426-6058",
-      "listing_id": null,
-      "upc": null,
-      "color": "Gloss Obsidian Metallic/Dune White",
-      "product_id": null,
-      "store_id": null,
-      "confidence": "verified",
-      "evidence": {
-        "parser": "specialized-brain-v1",
-        "retailer_stock": "INSTOCK",
-        "page_mpns": [
-          "94426-6056",
-          "94426-6058",
-          "94426-6061",
-          "94426-6156"
-        ],
-        "pickup_available": true,
-        "prices": [
-          "3799.99",
-          "3799.99"
-        ],
-        "add_to_cart": true
-      },
-      "discount_pct": "0.0",
-      "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.tuckahoebikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:47+00:00",
+      "observed_at": "2026-07-31T10:03:54+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1684,14 +1881,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:53+00:00",
+      "observed_at": "2026-07-31T10:03:59+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1738,14 +1936,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.encinabicyclecenters.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:01+00:00",
+      "observed_at": "2026-07-31T10:04:07+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -1782,14 +1981,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:09+00:00",
+      "observed_at": "2026-07-31T10:04:16+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1839,14 +2039,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.twowheelerskidealer.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:10+00:00",
+      "observed_at": "2026-07-31T10:04:17+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1882,14 +2083,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:17+00:00",
+      "observed_at": "2026-07-31T10:04:24+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -1939,59 +2141,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
-    },
-    {
-      "model_key": "roubaix_sl8_sport_2026",
-      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
-      "source": "specialized_brain",
-      "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:04+00:00",
-      "title": "Specialized Roubaix SL8 Sport - 2026",
-      "generation": null,
-      "year": 2026,
-      "size": "56",
-      "size_verified": true,
-      "in_stock": true,
-      "stock_verified": true,
-      "sale_price_usd": "3799.99",
-      "msrp_usd": "3799.99",
-      "retailer": "Landis Cyclery Inc",
-      "city": "Tempe",
-      "state": "AZ",
-      "sku": "94426-6156",
-      "listing_id": null,
-      "upc": null,
-      "color": "Gloss Vivid Red/Obsidian",
-      "product_id": null,
-      "store_id": null,
-      "confidence": "verified",
-      "evidence": {
-        "parser": "specialized-brain-v1",
-        "retailer_stock": "INSTOCK",
-        "page_mpns": [
-          "94426-6056",
-          "94426-6058",
-          "94426-6061",
-          "94426-6156"
-        ],
-        "pickup_available": true,
-        "prices": [
-          "3799.99",
-          "3799.99"
-        ],
-        "add_to_cart": true
-      },
-      "discount_pct": "0.0",
-      "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.ubcbike.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:05+00:00",
+      "observed_at": "2026-07-31T10:05:13+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2041,14 +2199,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.orangecycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:31+00:00",
+      "observed_at": "2026-07-31T10:05:39+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2093,67 +2252,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
-    },
-    {
-      "model_key": "roubaix_sl8_sport_2026",
-      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
-      "source": "specialized_brain",
-      "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:50+00:00",
-      "title": "Specialized Roubaix SL8 Sport",
-      "generation": null,
-      "year": 2026,
-      "size": "56",
-      "size_verified": true,
-      "in_stock": true,
-      "stock_verified": true,
-      "sale_price_usd": "3799.99",
-      "msrp_usd": "3799.99",
-      "retailer": "Kens Bike-Ski-Board",
-      "city": "Davis",
-      "state": "CA",
-      "sku": "94426-6156",
-      "listing_id": null,
-      "upc": null,
-      "color": "Gloss Vivid Red/Obsidian",
-      "product_id": null,
-      "store_id": null,
-      "confidence": "verified",
-      "evidence": {
-        "parser": "specialized-brain-v1",
-        "retailer_stock": "INSTOCK",
-        "page_mpns": [
-          "94426-6044",
-          "94426-6049",
-          "94426-6052",
-          "94426-6054",
-          "94426-6056",
-          "94426-6061",
-          "94426-6144",
-          "94426-6149",
-          "94426-6152",
-          "94426-6154",
-          "94426-6156",
-          "94426-6158",
-          "94426-6161"
-        ],
-        "pickup_available": true,
-        "prices": [
-          "3799.99"
-        ],
-        "add_to_cart": true
-      },
-      "discount_pct": "0.0",
-      "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.calistogabikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:53+00:00",
+      "observed_at": "2026-07-31T10:05:58+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2200,14 +2307,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:59+00:00",
+      "observed_at": "2026-07-31T10:06:05+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2257,14 +2365,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.tuckahoebikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:08+00:00",
+      "observed_at": "2026-07-31T10:06:14+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2312,14 +2421,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:15+00:00",
+      "observed_at": "2026-07-31T10:06:20+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2366,14 +2476,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:18+00:00",
+      "observed_at": "2026-07-31T10:06:24+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2423,14 +2534,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.tuckahoebikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:21+00:00",
+      "observed_at": "2026-07-31T10:07:25+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2478,14 +2590,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:26+00:00",
+      "observed_at": "2026-07-31T10:07:30+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2532,67 +2645,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
-    },
-    {
-      "model_key": "roubaix_sl8_sport_2026",
-      "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
-      "source": "specialized_brain",
-      "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:36+00:00",
-      "title": "Specialized Roubaix SL8 Sport",
-      "generation": null,
-      "year": 2026,
-      "size": "58",
-      "size_verified": true,
-      "in_stock": true,
-      "stock_verified": true,
-      "sale_price_usd": "3799.99",
-      "msrp_usd": "3799.99",
-      "retailer": "Kens Bike-Ski-Board",
-      "city": "Davis",
-      "state": "CA",
-      "sku": "94426-6158",
-      "listing_id": null,
-      "upc": null,
-      "color": "Gloss Vivid Red/Obsidian",
-      "product_id": null,
-      "store_id": null,
-      "confidence": "verified",
-      "evidence": {
-        "parser": "specialized-brain-v1",
-        "retailer_stock": "OTHERSTOCK",
-        "page_mpns": [
-          "94426-6044",
-          "94426-6049",
-          "94426-6052",
-          "94426-6054",
-          "94426-6056",
-          "94426-6061",
-          "94426-6144",
-          "94426-6149",
-          "94426-6152",
-          "94426-6154",
-          "94426-6156",
-          "94426-6158",
-          "94426-6161"
-        ],
-        "pickup_available": true,
-        "prices": [
-          "3799.99"
-        ],
-        "add_to_cart": true
-      },
-      "discount_pct": "0.0",
-      "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:43+00:00",
+      "observed_at": "2026-07-31T10:07:45+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2642,14 +2703,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:50+00:00",
+      "observed_at": "2026-07-31T10:07:54+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2699,14 +2761,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.cadencecyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:40:56+00:00",
+      "observed_at": "2026-07-31T10:01:14+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2754,14 +2817,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.sunadventure.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:06+00:00",
+      "observed_at": "2026-07-31T10:01:19+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2808,14 +2872,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.criterium.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:10+00:00",
+      "observed_at": "2026-07-31T10:01:23+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2862,14 +2927,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.moabbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:12+00:00",
+      "observed_at": "2026-07-31T10:01:25+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2917,14 +2983,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.eboomelectricbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:31+00:00",
+      "observed_at": "2026-07-31T10:01:37+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -2971,14 +3038,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.thebicyclechain.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:32+00:00",
+      "observed_at": "2026-07-31T10:01:39+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3026,14 +3094,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikepeddlerutah.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:47+00:00",
+      "observed_at": "2026-07-31T10:01:56+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3081,14 +3150,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bountifulbicycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:51+00:00",
+      "observed_at": "2026-07-31T10:02:01+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3136,14 +3206,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.geoffsbikeandski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:55+00:00",
+      "observed_at": "2026-07-31T10:02:05+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3180,14 +3251,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.probikerun.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:41:58+00:00",
+      "observed_at": "2026-07-31T10:02:08+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3235,14 +3307,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.patapscobike.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:00+00:00",
+      "observed_at": "2026-07-31T10:02:10+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3290,14 +3363,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.rubbersoulbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:02+00:00",
+      "observed_at": "2026-07-31T10:02:12+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -3332,14 +3406,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.spokeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:17+00:00",
+      "observed_at": "2026-07-31T10:02:27+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3377,14 +3452,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:33+00:00",
+      "observed_at": "2026-07-31T10:02:44+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3429,14 +3505,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.montclairbikery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:34+00:00",
+      "observed_at": "2026-07-31T10:02:45+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3472,14 +3549,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.gerksonline.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:40+00:00",
+      "observed_at": "2026-07-31T10:02:50+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3513,14 +3591,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.ridgefieldbicycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:51+00:00",
+      "observed_at": "2026-07-31T10:03:00+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3567,14 +3646,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:53+00:00",
+      "observed_at": "2026-07-31T10:03:02+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3614,14 +3694,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikezoo.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:32+00:00",
+      "observed_at": "2026-07-31T10:03:41+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3668,14 +3749,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.greenvillebikeandtri.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:34+00:00",
+      "observed_at": "2026-07-31T10:03:43+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -3723,14 +3805,15 @@
       },
       "discount_pct": "1.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.geoffsbikeandski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:36+00:00",
+      "observed_at": "2026-07-31T10:03:45+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3767,14 +3850,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bike513.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:39+00:00",
+      "observed_at": "2026-07-31T10:03:48+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3816,14 +3900,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:51+00:00",
+      "observed_at": "2026-07-31T10:03:58+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3868,14 +3953,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.velopro.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:55+00:00",
+      "observed_at": "2026-07-31T10:04:02+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3911,14 +3997,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.spokeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:43:57+00:00",
+      "observed_at": "2026-07-31T10:04:03+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -3956,14 +4043,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:00+00:00",
+      "observed_at": "2026-07-31T10:04:06+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4010,14 +4098,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.rivercitybicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:07+00:00",
+      "observed_at": "2026-07-31T10:04:14+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4052,14 +4141,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.greggscycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:12+00:00",
+      "observed_at": "2026-07-31T10:04:19+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4107,14 +4197,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:14+00:00",
+      "observed_at": "2026-07-31T10:04:21+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4154,14 +4245,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.cadencecyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:53+00:00",
+      "observed_at": "2026-07-31T10:05:01+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4209,14 +4301,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.sunadventure.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:44:57+00:00",
+      "observed_at": "2026-07-31T10:05:04+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4263,14 +4356,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.criterium.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:00+00:00",
+      "observed_at": "2026-07-31T10:05:08+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4317,14 +4411,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.moabbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:02+00:00",
+      "observed_at": "2026-07-31T10:05:10+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4372,14 +4467,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.eboomelectricbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:16+00:00",
+      "observed_at": "2026-07-31T10:05:24+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4426,14 +4522,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.thebicyclechain.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:17+00:00",
+      "observed_at": "2026-07-31T10:05:24+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4481,14 +4578,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikepeddlerutah.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:29+00:00",
+      "observed_at": "2026-07-31T10:05:37+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4536,14 +4634,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bountifulbicycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:33+00:00",
+      "observed_at": "2026-07-31T10:05:41+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4591,14 +4690,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.probikerun.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:41+00:00",
+      "observed_at": "2026-07-31T10:05:49+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4646,14 +4746,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.patapscobike.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:45:43+00:00",
+      "observed_at": "2026-07-31T10:05:50+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4701,14 +4802,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:12+00:00",
+      "observed_at": "2026-07-31T10:06:18+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4753,14 +4855,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.centercycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:16+00:00",
+      "observed_at": "2026-07-31T10:06:21+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4797,14 +4900,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.ridgefieldbicycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:26+00:00",
+      "observed_at": "2026-07-31T10:06:33+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4851,14 +4955,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:46:28+00:00",
+      "observed_at": "2026-07-31T10:06:35+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4898,14 +5003,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikezoo.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:07+00:00",
+      "observed_at": "2026-07-31T10:07:12+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -4952,14 +5058,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.greenvillebikeandtri.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:09+00:00",
+      "observed_at": "2026-07-31T10:07:14+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -5007,14 +5114,15 @@
       },
       "discount_pct": "1.9",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bike513.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:14+00:00",
+      "observed_at": "2026-07-31T10:07:19+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5056,14 +5164,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.sourlandcycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:24+00:00",
+      "observed_at": "2026-07-31T10:07:28+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5098,14 +5207,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:25+00:00",
+      "observed_at": "2026-07-31T10:07:29+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5150,14 +5260,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.rubbersoulbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:30+00:00",
+      "observed_at": "2026-07-31T10:07:34+00:00",
       "title": "Specialized Roubaix SL8 Sport - 2026",
       "generation": null,
       "year": 2026,
@@ -5192,14 +5303,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:35+00:00",
+      "observed_at": "2026-07-31T10:07:37+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5246,14 +5358,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.centercycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:45+00:00",
+      "observed_at": "2026-07-31T10:07:47+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5290,14 +5403,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.greggscycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:46+00:00",
+      "observed_at": "2026-07-31T10:07:48+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5345,14 +5459,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:47:48+00:00",
+      "observed_at": "2026-07-31T10:07:51+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5392,14 +5507,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_sport_2026",
       "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
       "source": "specialized_brain",
       "url": "https://www.firehousecycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-      "observed_at": "2026-07-31T01:42:32+00:00",
+      "observed_at": "2026-07-31T10:02:42+00:00",
       "title": "Specialized Roubaix SL8 Sport",
       "generation": null,
       "year": 2026,
@@ -5433,14 +5549,15 @@
       },
       "discount_pct": "-2.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclesportsinc.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:33+00:00",
+      "observed_at": "2026-07-31T10:08:36+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -5478,14 +5595,15 @@
       },
       "discount_pct": "6.7",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclesportsinc.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:52+00:00",
+      "observed_at": "2026-07-31T10:09:53+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -5523,14 +5641,15 @@
       },
       "discount_pct": "6.7",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.kegelsbikes.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:28+00:00",
+      "observed_at": "2026-07-31T10:08:31+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -5580,14 +5699,15 @@
       },
       "discount_pct": "5.6",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.jenscycles.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:38+00:00",
+      "observed_at": "2026-07-31T10:08:41+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -5621,14 +5741,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.hangar15bicycles.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:41+00:00",
+      "observed_at": "2026-07-31T10:08:44+00:00",
       "title": "Specialized Roubaix SL8 Comp - 2026",
       "generation": null,
       "year": 2026,
@@ -5677,14 +5798,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.wheelaway.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:49+00:00",
+      "observed_at": "2026-07-31T10:08:51+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -5720,14 +5842,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikeconnection.net/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:54+00:00",
+      "observed_at": "2026-07-31T10:08:57+00:00",
       "title": "Specialized Roubaix SL8 Comp - 2026",
       "generation": null,
       "year": 2026,
@@ -5777,14 +5900,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.calistogabikeshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:06+00:00",
+      "observed_at": "2026-07-31T10:09:08+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -5832,14 +5956,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:09+00:00",
+      "observed_at": "2026-07-31T10:09:11+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -5891,14 +6016,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.orangecycleorlando.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:48+00:00",
+      "observed_at": "2026-07-31T10:09:49+00:00",
       "title": "Specialized Roubaix SL8 Comp - 2026",
       "generation": null,
       "year": 2026,
@@ -5947,14 +6073,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.joefixits.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:54+00:00",
+      "observed_at": "2026-07-31T10:09:55+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6003,14 +6130,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikeconnection.net/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:04+00:00",
+      "observed_at": "2026-07-31T10:10:04+00:00",
       "title": "Specialized Roubaix SL8 Comp - 2026",
       "generation": null,
       "year": 2026,
@@ -6060,14 +6188,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.calistogabikeshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:08+00:00",
+      "observed_at": "2026-07-31T10:10:08+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6115,14 +6244,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.spokefolk.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:12+00:00",
+      "observed_at": "2026-07-31T10:10:11+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6158,14 +6288,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.twowheelerskidealer.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:16+00:00",
+      "observed_at": "2026-07-31T10:10:13+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6199,14 +6330,15 @@
       },
       "discount_pct": "0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.cadencecyclery.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:23+00:00",
+      "observed_at": "2026-07-31T10:08:27+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6256,14 +6388,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.nicolletbike.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:29+00:00",
+      "observed_at": "2026-07-31T10:08:33+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6312,14 +6445,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.thebicyclechain.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:30+00:00",
+      "observed_at": "2026-07-31T10:08:34+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6369,14 +6503,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.recyclistbikes.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:35+00:00",
+      "observed_at": "2026-07-31T10:08:38+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6423,14 +6558,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.sourlandcycles.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:37+00:00",
+      "observed_at": "2026-07-31T10:08:40+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6464,14 +6600,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.spokeshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:43+00:00",
+      "observed_at": "2026-07-31T10:08:45+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6505,14 +6642,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:53+00:00",
+      "observed_at": "2026-07-31T10:08:56+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6561,14 +6699,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.paloaltobicycles.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:48:56+00:00",
+      "observed_at": "2026-07-31T10:08:58+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6618,14 +6757,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.westhillshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:02+00:00",
+      "observed_at": "2026-07-31T10:09:04+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6674,14 +6814,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.villagepeddler.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:05+00:00",
+      "observed_at": "2026-07-31T10:09:07+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6730,14 +6871,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bikebarnracing.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:12+00:00",
+      "observed_at": "2026-07-31T10:09:13+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6774,14 +6916,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.centercycle.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:13+00:00",
+      "observed_at": "2026-07-31T10:09:14+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6820,14 +6963,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.greggscycles.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:14+00:00",
+      "observed_at": "2026-07-31T10:09:15+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6877,14 +7021,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.t-townbicycles.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:46+00:00",
+      "observed_at": "2026-07-31T10:09:47+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6933,14 +7078,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicycleproshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:49:53+00:00",
+      "observed_at": "2026-07-31T10:09:54+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -6990,14 +7136,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:00+00:00",
+      "observed_at": "2026-07-31T10:10:01+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -7046,14 +7193,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.paloaltobicycles.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:02+00:00",
+      "observed_at": "2026-07-31T10:10:03+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -7103,14 +7251,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.villagepeddler.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:05+00:00",
+      "observed_at": "2026-07-31T10:10:05+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -7159,14 +7308,15 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     },
     {
       "model_key": "roubaix_sl8_comp_2026",
       "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
       "source": "specialized_brain",
       "url": "https://www.bicyclecentres.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-      "observed_at": "2026-07-31T01:50:18+00:00",
+      "observed_at": "2026-07-31T10:10:14+00:00",
       "title": "Specialized Roubaix SL8 Comp",
       "generation": null,
       "year": 2026,
@@ -7216,7 +7366,8 @@
       },
       "discount_pct": "-0.0",
       "price_match_ready": true,
-      "first_seen_date": "2026-07-30"
+      "first_seen_date": "2026-07-31",
+      "is_new_offer": false
     }
   ],
   "errors": [],
@@ -7248,31 +7399,84 @@
   ],
   "comparison": {
     "status": "compared",
-    "previous_report_date": "2026-07-30",
+    "previous_report_date": "2026-07-31",
     "current_report_date": "2026-07-31"
   },
   "changes": [
     {
-      "kind": "offer_disappeared",
+      "kind": "price_drop",
+      "listing": {
+        "model_key": "roubaix_sl8_sport_2026",
+        "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+        "source": "specialized_brain",
+        "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+        "observed_at": "2026-07-31T10:01:27+00:00",
+        "title": "Specialized Roubaix SL8 Sport - 2026",
+        "generation": null,
+        "year": 2026,
+        "size": "56",
+        "size_verified": true,
+        "in_stock": true,
+        "stock_verified": true,
+        "sale_price_usd": "3499.99",
+        "msrp_usd": "3799.99",
+        "retailer": "Landis Cyclery Inc",
+        "city": "Tempe",
+        "state": "AZ",
+        "sku": "94426-6056",
+        "listing_id": null,
+        "upc": null,
+        "color": "Gloss Obsidian Metallic/Dune White",
+        "product_id": null,
+        "store_id": null,
+        "confidence": "verified",
+        "evidence": {
+          "parser": "specialized-brain-v1",
+          "retailer_stock": "OTHERSTOCK",
+          "page_mpns": [
+            "94426-6056",
+            "94426-6058",
+            "94426-6061",
+            "94426-6156"
+          ],
+          "pickup_available": true,
+          "prices": [
+            "3499.99",
+            "3799.99",
+            "3499.99",
+            "3799.99"
+          ],
+          "add_to_cart": true
+        },
+        "discount_pct": "7.9",
+        "price_match_ready": true,
+        "first_seen_date": "2026-07-31",
+        "is_new_offer": false
+      },
+      "old_price_usd": "3799.99",
+      "new_price_usd": "3499.99"
+    },
+    {
+      "kind": "price_drop",
       "listing": {
         "model_key": "roubaix_sl8_sport_2026",
         "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
         "source": "specialized_brain",
         "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
-        "observed_at": "2026-07-30T20:07:51+00:00",
+        "observed_at": "2026-07-31T10:02:21+00:00",
         "title": "Specialized Roubaix SL8 Sport",
         "generation": null,
         "year": 2026,
-        "size": "58",
+        "size": "56",
         "size_verified": true,
         "in_stock": true,
         "stock_verified": true,
-        "sale_price_usd": "3799.99",
-        "msrp_usd": "3799.99",
+        "sale_price_usd": "3499.99",
+        "msrp_usd": "3800.00",
         "retailer": "Kens Bike-Ski-Board",
         "city": "Davis",
         "state": "CA",
-        "sku": "94426-6058",
+        "sku": "94426-6056",
         "listing_id": null,
         "upc": null,
         "color": "Gloss Obsidian Metallic/Dune White",
@@ -7288,7 +7492,6 @@
             "94426-6052",
             "94426-6054",
             "94426-6056",
-            "94426-6058",
             "94426-6061",
             "94426-6144",
             "94426-6149",
@@ -7300,39 +7503,44 @@
           ],
           "pickup_available": true,
           "prices": [
-            "3799.99"
+            "3499.99",
+            "3800.00",
+            "3800.00"
           ],
           "add_to_cart": true
         },
-        "discount_pct": "0.0",
+        "discount_pct": "7.9",
         "price_match_ready": true,
-        "first_seen_date": "2026-07-30"
-      }
+        "first_seen_date": "2026-07-31",
+        "is_new_offer": false
+      },
+      "old_price_usd": "3799.99",
+      "new_price_usd": "3499.99"
     },
     {
-      "kind": "offer_disappeared",
+      "kind": "price_drop",
       "listing": {
-        "model_key": "roubaix_sl8_comp_2026",
-        "canonical_name": "Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026)",
+        "model_key": "roubaix_sl8_sport_2026",
+        "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
         "source": "specialized_brain",
-        "url": "https://www.kindbikesandskis.com/product/specialized-roubaix-sl8-comp-1244666-1.htm",
-        "observed_at": "2026-07-30T20:14:08+00:00",
-        "title": "Specialized Roubaix SL8 Comp",
+        "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+        "observed_at": "2026-07-31T10:03:37+00:00",
+        "title": "Specialized Roubaix SL8 Sport - 2026",
         "generation": null,
         "year": 2026,
         "size": "58",
         "size_verified": true,
         "in_stock": true,
         "stock_verified": true,
-        "sale_price_usd": "4499.99",
-        "msrp_usd": "4499.99",
-        "retailer": "Kind Bikes And Skis",
-        "city": "Edwards",
-        "state": "CO",
-        "sku": "94426-5258",
+        "sale_price_usd": "3499.99",
+        "msrp_usd": "3799.99",
+        "retailer": "Landis Cyclery Inc",
+        "city": "Tempe",
+        "state": "AZ",
+        "sku": "94426-6058",
         "listing_id": null,
         "upc": null,
-        "color": "Gloss Glacial Metallic/White",
+        "color": "Gloss Obsidian Metallic/Dune White",
         "product_id": null,
         "store_id": null,
         "confidence": "verified",
@@ -7340,19 +7548,202 @@
           "parser": "specialized-brain-v1",
           "retailer_stock": "INSTOCK",
           "page_mpns": [
-            "94426-5258"
+            "94426-6056",
+            "94426-6058",
+            "94426-6061",
+            "94426-6156"
           ],
           "pickup_available": true,
           "prices": [
-            "4499.99",
-            "4499.99"
+            "3499.99",
+            "3799.99",
+            "3499.99",
+            "3799.99"
           ],
           "add_to_cart": true
         },
-        "discount_pct": "0.0",
+        "discount_pct": "7.9",
         "price_match_ready": true,
-        "first_seen_date": "2026-07-30"
-      }
+        "first_seen_date": "2026-07-31",
+        "is_new_offer": false
+      },
+      "old_price_usd": "3799.99",
+      "new_price_usd": "3499.99"
+    },
+    {
+      "kind": "price_drop",
+      "listing": {
+        "model_key": "roubaix_sl8_sport_2026",
+        "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+        "source": "specialized_brain",
+        "url": "https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+        "observed_at": "2026-07-31T10:05:11+00:00",
+        "title": "Specialized Roubaix SL8 Sport - 2026",
+        "generation": null,
+        "year": 2026,
+        "size": "56",
+        "size_verified": true,
+        "in_stock": true,
+        "stock_verified": true,
+        "sale_price_usd": "3499.99",
+        "msrp_usd": "3799.99",
+        "retailer": "Landis Cyclery Inc",
+        "city": "Tempe",
+        "state": "AZ",
+        "sku": "94426-6156",
+        "listing_id": null,
+        "upc": null,
+        "color": "Gloss Vivid Red/Obsidian",
+        "product_id": null,
+        "store_id": null,
+        "confidence": "verified",
+        "evidence": {
+          "parser": "specialized-brain-v1",
+          "retailer_stock": "INSTOCK",
+          "page_mpns": [
+            "94426-6056",
+            "94426-6058",
+            "94426-6061",
+            "94426-6156"
+          ],
+          "pickup_available": true,
+          "prices": [
+            "3499.99",
+            "3799.99",
+            "3499.99",
+            "3799.99"
+          ],
+          "add_to_cart": true
+        },
+        "discount_pct": "7.9",
+        "price_match_ready": true,
+        "first_seen_date": "2026-07-31",
+        "is_new_offer": false
+      },
+      "old_price_usd": "3799.99",
+      "new_price_usd": "3499.99"
+    },
+    {
+      "kind": "price_drop",
+      "listing": {
+        "model_key": "roubaix_sl8_sport_2026",
+        "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+        "source": "specialized_brain",
+        "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+        "observed_at": "2026-07-31T10:05:57+00:00",
+        "title": "Specialized Roubaix SL8 Sport",
+        "generation": null,
+        "year": 2026,
+        "size": "56",
+        "size_verified": true,
+        "in_stock": true,
+        "stock_verified": true,
+        "sale_price_usd": "3499.99",
+        "msrp_usd": "3800.00",
+        "retailer": "Kens Bike-Ski-Board",
+        "city": "Davis",
+        "state": "CA",
+        "sku": "94426-6156",
+        "listing_id": null,
+        "upc": null,
+        "color": "Gloss Vivid Red/Obsidian",
+        "product_id": null,
+        "store_id": null,
+        "confidence": "verified",
+        "evidence": {
+          "parser": "specialized-brain-v1",
+          "retailer_stock": "INSTOCK",
+          "page_mpns": [
+            "94426-6044",
+            "94426-6049",
+            "94426-6052",
+            "94426-6054",
+            "94426-6056",
+            "94426-6061",
+            "94426-6144",
+            "94426-6149",
+            "94426-6152",
+            "94426-6154",
+            "94426-6156",
+            "94426-6158",
+            "94426-6161"
+          ],
+          "pickup_available": true,
+          "prices": [
+            "3499.99",
+            "3800.00",
+            "3800.00"
+          ],
+          "add_to_cart": true
+        },
+        "discount_pct": "7.9",
+        "price_match_ready": true,
+        "first_seen_date": "2026-07-31",
+        "is_new_offer": false
+      },
+      "old_price_usd": "3799.99",
+      "new_price_usd": "3499.99"
+    },
+    {
+      "kind": "price_drop",
+      "listing": {
+        "model_key": "roubaix_sl8_sport_2026",
+        "canonical_name": "Specialized Roubaix SL8 Sport Shimano 105 (2026)",
+        "source": "specialized_brain",
+        "url": "https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm",
+        "observed_at": "2026-07-31T10:07:38+00:00",
+        "title": "Specialized Roubaix SL8 Sport",
+        "generation": null,
+        "year": 2026,
+        "size": "58",
+        "size_verified": true,
+        "in_stock": true,
+        "stock_verified": true,
+        "sale_price_usd": "3499.99",
+        "msrp_usd": "3800.00",
+        "retailer": "Kens Bike-Ski-Board",
+        "city": "Davis",
+        "state": "CA",
+        "sku": "94426-6158",
+        "listing_id": null,
+        "upc": null,
+        "color": "Gloss Vivid Red/Obsidian",
+        "product_id": null,
+        "store_id": null,
+        "confidence": "verified",
+        "evidence": {
+          "parser": "specialized-brain-v1",
+          "retailer_stock": "OTHERSTOCK",
+          "page_mpns": [
+            "94426-6044",
+            "94426-6049",
+            "94426-6052",
+            "94426-6054",
+            "94426-6056",
+            "94426-6061",
+            "94426-6144",
+            "94426-6149",
+            "94426-6152",
+            "94426-6154",
+            "94426-6156",
+            "94426-6158",
+            "94426-6161"
+          ],
+          "pickup_available": true,
+          "prices": [
+            "3499.99",
+            "3800.00",
+            "3800.00"
+          ],
+          "add_to_cart": true
+        },
+        "discount_pct": "7.9",
+        "price_match_ready": true,
+        "first_seen_date": "2026-07-31",
+        "is_new_offer": false
+      },
+      "old_price_usd": "3799.99",
+      "new_price_usd": "3499.99"
     }
   ]
 }
