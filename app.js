@@ -136,7 +136,7 @@ function modelSection(model) {
           <p>
             目标尺码 ${escapeHtml(model.target_sizes.join(", "))} ·
             ${number(model.store_count)} 家门店 ·
-            ${number(model.offer_count)} 个有效报价组合 · 短名单展示折扣至少 10% 的前五个不同价格
+            ${number(model.offer_count)} 个有效报价组合 · 五个最低不同价格档位中仅展示折扣至少 10% 的报价
           </p>
         </div>
         ${
