@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-07-30
+# Trek 每日价格扫描 — 2026-07-31
 
 状态：**COMPLETE**
 
@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-07-30 18:39–19:22 PDT
+- 扫描时间：2026-07-31 03:00–03:41 PDT
 - Profile：`conus`
-- 成功报价：842
+- 成功报价：840
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 842, "ignored": 109}`
+- Offer tasks：`{"complete": 840, "ignored": 108}`
 - Trek 官方美国本土店铺：1873
-- Locally 可扫描店铺：1382
+- Locally 可扫描店铺：1374
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：842
+- 有库存的门店-变体对：840
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -61,7 +61,6 @@
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=33657) | $3,799.99 | Trek Bicycle Fort Collins | Fort Collins, CO | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=33304) | $3,799.99 | Trek Bicycle Fort Wayne | Fort Wayne, IN | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=200872) | $3,799.99 | Trek Bicycle Fort Worth South | Fort Worth, TX | Dark Star to Bronze Age Fade | 56 | 197216282051 |
-| [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=167574) | $3,799.99 | Trek Bicycle Fredericksburg | Fredericksburg, VA | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=13501) | $3,799.99 | Trek Bicycle Happy Valley | Happy Valley, OR | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=16781) | $3,799.99 | Trek Bicycle Henderson | Henderson, NV | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=240701) | $3,799.99 | Trek Bicycle Houston West University | Houston, TX | Dark Star to Bronze Age Fade | 56 | 197216282051 |
@@ -116,6 +115,7 @@
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21352) | $3,799.99 | Trek Bicycle Springfield | West Springfield, VA | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=36933) | $3,799.99 | Trek Bicycle St. Louis Ballwin | St. Louis, MO | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=282238) | $3,799.99 | Trek Bicycle Sugar Land | Sugar Land, TX | Dark Star to Bronze Age Fade | 56 | 197216282051 |
+| [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=32705) | $3,799.99 | Arnold Bike Doctor | Arnold, MD | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=17601) | $3,799.99 | Asbury Park Cyclery | Asbury Park, NJ | Ivy Smoke | 56 | 197216282235 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21804) | $3,799.99 | Campus Cycles | Denver, CO | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21804) | $3,799.99 | Campus Cycles | Denver, CO | Ivy Smoke | 56 | 197216282235 |
@@ -200,7 +200,6 @@
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=21426) | $5,099.99 | Trek Bicycle Madison East | Madison, WI | Era White/Glowstick/Coral Fade | 56 | 197216239130 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=21342) | $5,099.99 | Trek Bicycle Newark | Newark, DE | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=37158) | $5,099.99 | Trek Bicycle North County | San Marcos, CA | Dark Star to Bronze Age Fade | 56 | 197216238867 |
-| [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=144515) | $5,099.99 | Trek Bicycle North Raleigh | Raleigh, NC | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=326005) | $5,099.99 | Trek Bicycle Palm Desert | Palm Desert, CA | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=326003) | $5,099.99 | Trek Bicycle Palm Springs | Palm Springs, CA | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=16586) | $5,099.99 | Trek Bicycle Parmer | Austin, TX | Dark Star to Bronze Age Fade | 56 | 197216238867 |
@@ -220,6 +219,7 @@
 | 价格 | MSRP | 门店 | 地点 | 颜色 | 尺码 | UPC |
 | ---: | ---: | --- | --- | --- | --- | --- |
 | [$2,999.95](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=109794) | $3,499.99 | THE BIKE SHAK | York, PA | Lava/Black Olive | ML | 197216040118 |
+| [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=32705) | $3,499.99 | Arnold Bike Doctor | Arnold, MD | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=31682) | $3,499.99 | Bicycle Habitat Park Slope | Brooklyn, NY | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=207356) | $3,499.99 | Bicycles Etc. | Jacksonville, FL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=165019) | $3,499.99 | Brickyard Bike Co. | Phenix City, AL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -238,9 +238,12 @@
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=204249) | $3,499.99 | Freewheel Bike Richfield | Richfield, MN | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=204252) | $3,499.99 | Freewheel Bike Saint Paul | Saint Paul, MN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=204252) | $3,499.99 | Freewheel Bike Saint Paul | Saint Paul, MN | Lava/Black Olive | ML | 197216040118 |
+| [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=306532) | $3,499.99 | Kirkland Bicycle | Kirkland, WA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=25550) | $3,499.99 | Liberty Bicycles | Asheville, NC | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=849) | $3,499.99 | Little River Trading Company | Maryville, TN | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=17625) | $3,499.99 | Mad Dog Cycles Orem | Orem, UT | Lava/Black Olive | ML | 197216040118 |
+| [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21865) | $3,499.99 | Old Town Bike Shop | Colorado Springs, CO | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
+| [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21865) | $3,499.99 | Old Town Bike Shop | Colorado Springs, CO | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=44465) | $3,499.99 | Rainbow Cycles Inc | Southern Pines, NC | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=332087) | $3,499.99 | Trek Bicycle Alamo Heights | San Antonio, TX | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=37160) | $3,499.99 | Trek Bicycle Albuquerque | Albuquerque, NM | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -520,58 +523,17 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-07-30 09:48–10:31 PDT → 2026-07-30 18:39–19:22 PDT
+对比基准：2026-07-30 18:39–19:22 PDT → 2026-07-31 03:00–03:41 PDT
 
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Goodales Bike Shop Nashua $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Alamo Heights $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Alexandria South $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Allen $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Allentown $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Altamonte Springs $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Arlington Clarendon $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Beverly Hills $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Cambridge $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Champions $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Chelsea $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Chicago Wicker Park $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Closter $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Closter $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Cobble Hill $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Cobble Hill $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle College Station $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Concord $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Dayton Kettering $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Era White/Glowstick/Coral Fade / 56 / Trek Bicycle Dayton Kettering $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle East Providence $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle El Dorado Hills $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Fairfax $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Fairfield $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Fort Collins $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Fort Wayne $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Fort Worth South $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Fredericksburg $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Happy Valley $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Henderson $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Houston West University $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Houston West University $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Houston Westchase $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Houston Westchase $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Issaquah $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Jacksonville Beach $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Katy $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Kingwood $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Lake Mary $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Lakeland $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Lamar $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Lamar $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Lancaster $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Las Vegas West $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Lees Summit $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Leesburg $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Little Rock $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Livermore $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Loveland $3,799.99 → $2,499.93
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Mandeville $3,799.99 → $2,499.93
+- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Arnold Bike Doctor $3,199.99 → $2,699.97
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Arnold Bike Doctor $3,499.99 → $2,999.97
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Kirkland Bicycle $3,399.99 → $2,999.97
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Old Town Bike Shop $3,499.99 → $2,999.97
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Old Town Bike Shop $3,499.99 → $2,999.97
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Rochester Bike Shop $3,499.99 → $3,399.99
+- 涨价：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle North Raleigh $3,999.93 → $5,099.99
+- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Fredericksburg
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Ray's Bike Shop - Bay City
 
 ## 数据质量规则
 

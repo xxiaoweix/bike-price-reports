@@ -48,7 +48,7 @@ function offerRows(offers, tableId) {
   return offers
     .map(
       (offer) => `
-        <tr data-page-row="${tableId}" class="${offer.is_new_offer ? "new-offer" : ""}">
+        <tr data-page-row="${tableId}" data-region="${escapeHtml(offer.state || "")}" data-color="${escapeHtml(offer.color || "")}" class="${offer.is_new_offer ? "new-offer" : ""}">
           <td class="price">${money(offer.sale_price_usd)}</td>
           <td>
             ${money(offer.msrp_usd)}
@@ -69,9 +69,28 @@ function offerRows(offers, tableId) {
     .join("");
 }
 
-function paginationControls(tableId, count) {
+function paginationControls(tableId, offers) {
+  const regions = [...new Set(offers.map((offer) => offer.state).filter(Boolean))].sort();
+  const colors = [...new Set(offers.map((offer) => offer.color).filter(Boolean))].sort();
+  const regionOptions = regions
+    .map((region) => `<option value="${escapeHtml(region)}">${escapeHtml(region)}</option>`)
+    .join("");
+  const colorOptions = colors
+    .map((color) => `<option value="${escapeHtml(color)}">${escapeHtml(color)}</option>`)
+    .join("");
+  const count = offers.length;
   return `
     <div class="table-pagination" data-pagination="${tableId}">
+      <label>Color
+        <select data-color-filter="${tableId}">
+          <option value="">All</option>${colorOptions}
+        </select>
+      </label>
+      <label>地区
+        <select data-region-filter="${tableId}">
+          <option value="">全部</option>${regionOptions}
+        </select>
+      </label>
       <label>每页
         <select data-page-size="${tableId}">
           <option value="5">5</option>
@@ -90,24 +109,44 @@ function enablePagination() {
   root.querySelectorAll("[data-pagination]").forEach((controls) => {
     const tableId = controls.dataset.pagination;
     const rows = [...root.querySelectorAll(`tr[data-page-row="${tableId}"]`)];
-    const select = controls.querySelector("select");
+    const region = controls.querySelector("[data-region-filter]");
+    const color = controls.querySelector("[data-color-filter]");
+    const select = controls.querySelector("[data-page-size]");
     const status = controls.querySelector("[data-pagination-status]");
     const previous = controls.querySelector("[data-page-prev]");
     const next = controls.querySelector("[data-page-next]");
     let page = 1;
     const update = () => {
       const pageSize = Number(select.value);
-      const totalPages = Math.max(1, Math.ceil(rows.length / pageSize));
+      const filteredRows = rows.filter(
+        (row) => (!region.value || row.dataset.region === region.value)
+          && (!color.value || row.dataset.color === color.value),
+      );
+      const filteredIndexes = new Map(
+        filteredRows.map((row, index) => [row, index]),
+      );
+      const totalPages = Math.max(1, Math.ceil(filteredRows.length / pageSize));
       page = Math.min(page, totalPages);
       const start = (page - 1) * pageSize;
-      const end = Math.min(start + pageSize, rows.length);
+      const end = Math.min(start + pageSize, filteredRows.length);
       rows.forEach((row, index) => {
-        row.hidden = index < start || index >= end;
+        const filteredIndex = filteredIndexes.get(row);
+        row.hidden = filteredIndex === undefined || filteredIndex < start || filteredIndex >= end;
       });
-      status.textContent = `显示 ${start + 1}–${end} / ${rows.length}`;
+      status.textContent = filteredRows.length
+        ? `显示 ${start + 1}–${end} / ${filteredRows.length}`
+        : "没有符合条件的报价";
       previous.disabled = page === 1;
       next.disabled = page === totalPages;
     };
+    region.addEventListener("change", () => {
+      page = 1;
+      update();
+    });
+    color.addEventListener("change", () => {
+      page = 1;
+      update();
+    });
     select.addEventListener("change", () => {
       page = 1;
       update();
@@ -149,6 +188,7 @@ function modelSection(model) {
             : ""
         }
       </div>
+      ${offers.length ? paginationControls(tableId, offers) : ""}
       <div class="table-scroll">
         <table>
           <thead>
@@ -160,7 +200,6 @@ function modelSection(model) {
           <tbody>${offers.length ? offerRows(offers, tableId) : '<tr><td colspan="9" class="empty">本次没有折扣达到 10% 的已验证报价。</td></tr>'}</tbody>
         </table>
       </div>
-      ${offers.length ? paginationControls(tableId, offers.length) : ""}
     </section>`;
 }
 
