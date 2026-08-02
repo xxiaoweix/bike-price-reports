@@ -8,12 +8,12 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 3
-- Locally stocked store × SKU pairs: 129
-- Locally price-verified store offers: 69
-- Locally stocked pairs without verified store price: 60
+- Locally stocked store × SKU pairs: 127
+- Locally price-verified store offers: 68
+- Locally stocked pairs without verified store price: 59
 - Locally completed CONUS queries: 486; saturated: 36
 - Locally failed discovery queries: 0
-- Locally detail validation failures: 60
+- Locally detail validation failures: 59
 - Total offers at least 10% off: 52
 
 | Product | Price | MSRP / discount | Source | Store | Color | Size | SKU | UPC |
@@ -47,7 +47,6 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=33830) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Warwick | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=14776) | $210.00 | $210 / 0.0% | rapha_locally_widget | Hills Sport Shop | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=207356) | $210.00 | $210 / 0.0% | rapha_locally_widget | Bicycles Etc. | Black | M | 5324607 | 5059526345138 |
-| [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=261871) | $210.00 | $210 / 0.0% | rapha_locally_widget | Trek Bicycle Melbourne | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=16578) | $210.00 | $210 / 0.0% | rapha_locally_widget | Helen's Cycles - Santa Monica | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=64939) | $210.00 | $210 / 0.0% | rapha_locally_widget | A&B Cycle | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=303203) | $210.00 | $210 / 0.0% | rapha_locally_widget | Blue Ridge Cyclery - Libbie Mill | Black | M | 5324607 | 5059526345138 |
@@ -95,4 +94,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-07-31; changes=69
+- Comparison: compared against 2026-08-01; changes=1
