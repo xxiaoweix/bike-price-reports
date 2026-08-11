@@ -8,8 +8,8 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 3
-- Locally stocked store × SKU pairs: 117
-- Locally price-verified store offers: 61
+- Locally stocked store × SKU pairs: 116
+- Locally price-verified store offers: 60
 - Locally stocked pairs without verified store price: 56
 - Locally completed CONUS queries: 486; saturated: 36
 - Locally failed discovery queries: 0
@@ -76,7 +76,6 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=303203) | $108.50 | $145 / 25.2% | rapha_locally_widget | Blue Ridge Cyclery - Libbie Mill | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=17605) | $145.00 | $145 / 0.0% | rapha_locally_widget | Cahaba Cycles - Homewood | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=67506) | $145.00 | $145 / 0.0% | rapha_locally_widget | Bicycle Cove | White | M | 5324502 | 5059526346517 |
-| [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=165019) | $145.00 | $145 / 0.0% | rapha_locally_widget | Brickyard Bike Co. | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=207356) | $145.00 | $145 / 0.0% | rapha_locally_widget | Bicycles Etc. | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=413544) | $145.00 | $145 / 0.0% | rapha_locally_widget | Trek Bicycle Villa Park | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=30943) | $145.00 | $145 / 0.0% | rapha_locally_widget | Scott's Cycling & Fitness | White | M | 5324502 | 5059526346517 |
@@ -87,4 +86,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-08-09; changes=0
+- Comparison: compared against 2026-08-10; changes=1
