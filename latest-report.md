@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-08-12
+# Trek 每日价格扫描 — 2026-08-13
 
 状态：**COMPLETE**
 
@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-08-12 09:08–09:52 PDT
+- 扫描时间：2026-08-13 09:08–09:52 PDT
 - Profile：`conus`
-- 成功报价：729
+- 成功报价：726
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 729, "ignored": 98}`
+- Offer tasks：`{"complete": 726, "ignored": 97}`
 - Trek 官方美国本土店铺：1876
-- Locally 可扫描店铺：1388
+- Locally 可扫描店铺：1390
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：729
+- 有库存的门店-变体对：726
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -52,7 +52,6 @@
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=261831) | $3,799.99 | Trek Bicycle Lakeland | Lakeland, FL | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=16782) | $3,799.99 | Trek Bicycle Las Vegas West | Las Vegas, NV | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=121022) | $3,799.99 | Trek Bicycle Lees Summit | Lees Summit, MO | Ivy Smoke | 56 | 197216282235 |
-| [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=255175) | $3,799.99 | Trek Bicycle Leesburg | Leesburg, VA | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21807) | $3,799.99 | Trek Bicycle Little Rock | Little Rock, AR | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=33658) | $3,799.99 | Trek Bicycle Loveland | Loveland, CO | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21426) | $3,799.99 | Trek Bicycle Madison East | Madison, WI | Dark Star to Bronze Age Fade | 56 | 197216282051 |
@@ -88,6 +87,7 @@
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=108250) | $3,799.99 | George Garner Cyclery - Libertyville | Libertyville, IL | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=66725) | $3,799.99 | Mead's Bike Shop | Sterling, IL | Ivy Smoke | 56 | 197216282235 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21597) | $3,799.99 | The Bicycle Outfitter | Los Altos, CA | Dark Star to Bronze Age Fade | 56 | 197216282051 |
+| [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=20139) | $3,799.99 | The Hub Bicycles | Athens, GA | Ivy Smoke | 56 | 197216282235 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=176376) | $3,799.99 | The Sports Den | Marshfield, WI | Ivy Smoke | 56 | 197216282235 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=18374) | $3,799.99 | Trek Bicycle Cary | Cary, NC | Ivy Smoke | 56 | 197216282235 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=17526) | $3,799.99 | Trek Bicycle Ellicott City | Ellicott City, MD | Ivy Smoke | 56 | 197216282235 |
@@ -108,6 +108,7 @@
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=42770) | $3,799.99 | Trek of CLT - South Charlotte | Charlotte, NC | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=42750) | $3,799.99 | Village Cycle Center | Chicago, IL | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.97](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=67753) | $3,799.99 | Wheelbase Bikes | Frederick, MD | Dark Star to Bronze Age Fade | 56 | 197216282051 |
+| [$2,699.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=67934) | $3,799.99 | Bicycle Way of Life | Eugene, OR | Ivy Smoke | 56 | 197216282235 |
 | [$2,699.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=10995) | $3,799.99 | SCHEELS ALL SPORTS | Omaha, NE | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=10996) | $3,799.99 | SCHEELS ALL SPORTS | Mankato, MN | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=11002) | $3,799.99 | SCHEELS ALL SPORTS | Rochester, MN | Dark Star to Bronze Age Fade | 56 | 197216282051 |
@@ -116,6 +117,7 @@
 | [$2,699.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=11012) | $3,799.99 | SCHEELS ALL SPORTS | Sioux Falls, SD | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,699.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=322087) | $3,799.99 | SCHEELS ALL SPORTS | Chandler, AZ | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,799.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=252520) | $3,799.99 | St. Joseph Bicycle Company | St. Joseph, MI | Dark Star to Bronze Age Fade | 56 | 197216282051 |
+| [$3,200.00](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21299) | $3,799.99 | Cycles Etc | Salem, NH | Ivy Smoke | 56 | 197216282235 |
 
 ### Trek Domane SL 6 Gen 4
 
@@ -145,7 +147,6 @@
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=16781) | $5,099.99 | Trek Bicycle Henderson | Henderson, NV | Era White/Glowstick/Coral Fade | 56 | 197216239130 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=240592) | $5,099.99 | Trek Bicycle Houston Memorial | Houston, TX | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=240705) | $5,099.99 | Trek Bicycle Katy | Katy, TX | Dark Star to Bronze Age Fade | 56 | 197216238867 |
-| [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=21426) | $5,099.99 | Trek Bicycle Madison East | Madison, WI | Era White/Glowstick/Coral Fade | 56 | 197216239130 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=21342) | $5,099.99 | Trek Bicycle Newark | Newark, DE | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=37158) | $5,099.99 | Trek Bicycle North County | San Marcos, CA | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=326005) | $5,099.99 | Trek Bicycle Palm Desert | Palm Desert, CA | Dark Star to Bronze Age Fade | 56 | 197216238867 |
@@ -155,9 +156,10 @@
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=13502) | $5,099.99 | Trek Bicycle Portland Slabtown | Portland, OR | Era White/Glowstick/Coral Fade | 56 | 197216239130 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=361969) | $5,099.99 | Trek Bicycle Reno | Reno, NV | Era White/Glowstick/Coral Fade | 56 | 197216239130 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=37157) | $5,099.99 | Trek Bicycle San Diego Kearny Mesa | San Diego, CA | Era White/Glowstick/Coral Fade | 56 | 197216239130 |
+| [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=21323) | $5,099.99 | Trek Bicycle Saratoga Springs | Saratoga Springs, NY | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=37154) | $5,099.99 | Trek Bicycle South Bay | Bonita, CA | Dark Star to Bronze Age Fade | 56 | 197216238867 |
 | [$3,999.93](https://trek.locally.com/product/2327630/trek-domane-sl-6-gen-4?store=36923) | $5,099.99 | Wheel & Sprocket - Brookfield | Brookfield, WI | Dark Star to Bronze Age Fade | 56 | 197216238867 |
-| [$4,149.93](https://trek.locally.com/product/2337271/trek-domane-sl-6-gen-4-klicke-f-r-den-verkaufspreis?store=107600) | $5,149.99 | Chain Reaction Bicycles | Redwood City, CA | Marianas Blue | 56 | 197216040613 |
+| [$4,149.93](https://trek.locally.com/product/2337271/trek-domane-sl-6-gen-4?store=107600) | $5,149.99 | Chain Reaction Bicycles | Redwood City, CA | Marianas Blue | 56 | 197216040613 |
 
 ### Trek Checkpoint SL 5 AXS Gen 3
 
@@ -191,9 +193,7 @@
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21381) | $3,499.99 | Trek Land O'Lakes | Land O' Lakes, FL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=42750) | $3,499.99 | Village Cycle Center | Chicago, IL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=42750) | $3,499.99 | Village Cycle Center | Chicago, IL | Lava/Black Olive | ML | 197216040118 |
-| [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=205820) | $3,499.99 | WEST MICHIGAN BIKE & FITNESS | Grandville, MI | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=191099) | $3,499.99 | Wayne's Ski & Cycle | Mason City, IA | Lava/Black Olive | ML | 197216040118 |
-| [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=205819) | $3,499.99 | West Michigan Bike & Fitness | Holland, MI | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=67753) | $3,499.99 | Wheelbase Bikes | Frederick, MD | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=17020) | $3,499.99 | 7 Mile Cycles | Elk Grove Village, IL | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=15449) | $3,499.99 | Arcadian Shop | Lenox, MA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -203,10 +203,12 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16674) | $3,499.99 | Bicycle Garage Indy & BGI Fitness - 82nd Street | Indianapolis, IN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16673) | $3,499.99 | Bicycle Garage Indy & BGI Fitness - Southport Road | Indianapolis, IN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16673) | $3,499.99 | Bicycle Garage Indy & BGI Fitness - Southport Road | Indianapolis, IN | Lava/Black Olive | ML | 197216040118 |
+| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=67934) | $3,499.99 | Bicycle Way of Life | Eugene, OR | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=67718) | $3,499.99 | Bicycle World | Dubuque, IA | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=58437) | $3,499.99 | Bicycle X-Change Shops | Wichita, KS | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=58437) | $3,499.99 | Bicycle X-Change Shops | Wichita, KS | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21782) | $3,499.99 | Big Sky Cycling - Helena | Helena, MT | Lava/Black Olive | ML | 197216040118 |
+| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=143026) | $3,499.99 | Bike Mart - McKinney | McKinney, TX | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=35557) | $3,499.99 | Bike Town USA | Gainesville, GA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=67953) | $3,499.99 | Bikesport | Trappe, PA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=432758) | $3,499.99 | BonduBikes | Bondurant, IA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -216,6 +218,7 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=107833) | $3,499.99 | CycleWerks Bicycle & Fitness - Sylvania | Toledo, OH | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16538) | $3,499.99 | Cyclery & Fitness Center | Edwardsville, IL | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16683) | $3,499.99 | Cyclery USA | Redlands, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
+| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21299) | $3,499.99 | Cycles Etc | Salem, NH | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=143059) | $3,499.99 | Danny's Cycles - Darien | Darien, CT | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=33133) | $3,499.99 | Danny's Cycles - Rye Brook | Rye Brook, NY | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=33134) | $3,499.99 | Danny's Cycles - Scarsdale | Scarsdale, NY | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -231,7 +234,6 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=17618) | $3,499.99 | Free-Flite Bicycles - Canton Rd. | Marietta, GA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=204248) | $3,499.99 | Freewheel Bike Bloomington | Bloomington, MN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=204250) | $3,499.99 | Freewheel Bike Eagan | Eagan, MN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
-| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=20224) | $3,499.99 | Freewheel Bike Eden Prairie | Eden Prairie, MN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=418678) | $3,499.99 | Freewheel Bike Minneapolis | Minneapolis, MN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16810) | $3,499.99 | Freewheel Bike Minnetonka | Minnetonka, MN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=204249) | $3,499.99 | Freewheel Bike Richfield | Richfield, MN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -278,7 +280,6 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=33550) | $3,499.99 | Ray's Bike Shop - Bay City | Bay City, MI | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=276043) | $3,499.99 | Red Rocks Cycling Club | Morrison, CO | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=26821) | $3,499.99 | Revolution Bicycles Arcata | Arcata, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
-| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=159314) | $3,499.99 | Ride615 Bicycle Shop | Nashville, TN | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=33500) | $3,499.99 | Riverbrook Bike & Ski | Hayward, WI | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=10990) | $3,499.99 | SCHEELS ALL SPORTS | Bismarck, ND | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=10994) | $3,499.99 | SCHEELS ALL SPORTS | Lincoln, NE | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -302,6 +303,7 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=109468) | $3,499.99 | Scooter's Bike Shop | Souderton, PA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=17001) | $3,499.99 | Summit Bicycles - Los Gatos | Los Gatos, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=109674) | $3,499.99 | Summit Bicycles - Palo Alto | Palo Alto, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
+| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=31686) | $3,499.99 | The Bicycle Link | Weymouth, MA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21597) | $3,499.99 | The Bicycle Outfitter | Los Altos, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=109758) | $3,499.99 | The Bicycle Shop | Jacksonville, NC | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16539) | $3,499.99 | The Cyclery and Fitness Center Shiloh | Shiloh, IL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -366,7 +368,6 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=333952) | $3,499.99 | Trek Bicycle Gig Harbor | Gig Harbor, WA | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=226690) | $3,499.99 | Trek Bicycle Golden | Golden, CO | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=226690) | $3,499.99 | Trek Bicycle Golden | Golden, CO | Lava/Black Olive | ML | 197216040118 |
-| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=304500) | $3,499.99 | Trek Bicycle Grand Blanc | Flint, MI | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=167585) | $3,499.99 | Trek Bicycle Granger | Granger, IN | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=307538) | $3,499.99 | Trek Bicycle Greensboro | Greensboro, NC | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=286457) | $3,499.99 | Trek Bicycle Grosse Pointe | Grosse Pointe Woods, MI | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -374,6 +375,7 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=270565) | $3,499.99 | Trek Bicycle Heber City | Heber City, UT | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=11192) | $3,499.99 | Trek Bicycle Hooksett | Hooksett, NH | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=240592) | $3,499.99 | Trek Bicycle Houston Memorial | Houston, TX | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
+| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=240701) | $3,499.99 | Trek Bicycle Houston West University | Houston, TX | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=240700) | $3,499.99 | Trek Bicycle Houston Westchase | Houston, TX | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=159247) | $3,499.99 | Trek Bicycle Issaquah | Issaquah, WA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=261798) | $3,499.99 | Trek Bicycle Jacksonville Beach | Jacksonville Beach, FL | Lava/Black Olive | ML | 197216040118 |
@@ -407,7 +409,6 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=144515) | $3,499.99 | Trek Bicycle North Raleigh | Raleigh, NC | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=283690) | $3,499.99 | Trek Bicycle Oakland | Oakland, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=286459) | $3,499.99 | Trek Bicycle Okemos | Okemos, MI | Lava/Black Olive | ML | 197216040118 |
-| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=35660) | $3,499.99 | Trek Bicycle Olympia East | Olympia, WA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=36931) | $3,499.99 | Trek Bicycle Omaha Midtown | Omaha, NE | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=271842) | $3,499.99 | Trek Bicycle Omaha West | Omaha, NE | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=271842) | $3,499.99 | Trek Bicycle Omaha West | Omaha, NE | Lava/Black Olive | ML | 197216040118 |
@@ -474,6 +475,7 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=413544) | $3,499.99 | Trek Bicycle Villa Park | Villa Park, IL | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=283146) | $3,499.99 | Trek Bicycle Waco | Waco, TX | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=278999) | $3,499.99 | Trek Bicycle Waldorf | Waldorf, MD | Lava/Black Olive | ML | 197216040118 |
+| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=33830) | $3,499.99 | Trek Bicycle Warwick | Warwick, RI | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=16954) | $3,499.99 | Trek Bicycle Washington D.C. Georgetown | Washington, DC | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=25540) | $3,499.99 | Trek Bicycle Wenatchee | Wenatchee, WA | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21338) | $3,499.99 | Trek Bicycle West Chester | West Chester, PA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -489,6 +491,7 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=207422) | $3,499.99 | Trek Highland Park | Highland Park, IL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=159009) | $3,499.99 | Trek Store of Savannah | Savannah, GA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=42770) | $3,499.99 | Trek of CLT - South Charlotte | Charlotte, NC | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
+| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=252421) | $3,499.99 | Tuckahoe Bike Shop Northfield | Northfield, NJ | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=110048) | $3,499.99 | Valencia Cyclery | San Francisco, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=83689) | $3,499.99 | Velo Reno | Reno, NV | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=17019) | $3,499.99 | Village CycleSport | Barrington, IL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -540,7 +543,6 @@
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=21477) | $4,399.99 | Trek Bicycle Broomfield | Broomfield, CO | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=240704) | $4,399.99 | Trek Bicycle Champions | Spring, TX | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=167183) | $4,399.99 | Trek Bicycle Chapel Hill | Chapel Hill, NC | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
-| [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=33793) | $4,399.99 | Trek Bicycle Chelsea | New York City, NY | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=32937) | $4,399.99 | Trek Bicycle Columbus Dublin | Columbus, OH | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=16027) | $4,399.99 | Trek Bicycle Dallas Park Cities | Dallas, TX | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=33267) | $4,399.99 | Trek Bicycle Easton | Easton, PA | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
@@ -571,31 +573,29 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-08-11 09:10–09:54 PDT → 2026-08-12 09:08–09:52 PDT
+对比基准：2026-08-12 09:08–09:52 PDT → 2026-08-13 09:08–09:52 PDT
 
-- 降价：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Cyclery USA $3,199.95 → $2,699.97
-- 降价：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Bike Rack Inc $4,199.99 → $3,699.99
-- 新增库存：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Cypress
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
-- 新增库存：Trek Domane SL 6 Gen 4 / Lunar Silver / 56 / Bingham Cyclery
-- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / NBX Bikes $2,999.97 → $3,499.99
-- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Omaha West
-- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Santa Barbara
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Gregg's Bellevue Cycles
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / The Hub Bicycles
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Rainbow Cycles Inc
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Sunnyside Sports
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Freewheel Bike Richfield
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Highlands Ranch
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Jacksonville Lakeshore
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Robinson Township
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Woolley G's Bike & Fitness
-- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Trek Bicycle Oklahoma City
-- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Earl's Cyclery & Fitness
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Landry's Bicycles
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Towpath Bike
-- 库存消失：Trek Domane SL 6 Gen 4 / Marianas Blue / 56 / Liberty Bicycles
-- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Hooksett
+- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Bicycle Way of Life $3,799.99 → $2,699.99
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Bicycle Way of Life $3,499.99 → $2,999.99
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Bike Mart - McKinney $3,499.99 → $2,999.99
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Cycles Etc $3,499.99 → $2,999.99
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / The Bicycle Link $3,499.99 → $2,999.99
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Tuckahoe Bike Shop Northfield $3,499.99 → $2,999.99
+- 降价：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Cycles Etc $3,799.99 → $3,200.00
+- 降价：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Bicycle Way of Life $5,099.99 → $4,199.99
+- 新增库存：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / The Hub Bicycles
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Houston West University
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Warwick
+- 新增库存：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Saratoga Springs
+- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / WEST MICHIGAN BIKE & FITNESS $2,999.97 → $3,499.99
+- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / West Michigan Bike & Fitness $2,999.97 → $3,499.99
+- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Trek Bicycle Leesburg
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Freewheel Bike Eden Prairie
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Grand Blanc
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Olympia East
+- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Trek Bicycle Chelsea
+- 库存消失：Trek Domane SL 6 Gen 4 / Era White/Glowstick/Coral Fade / 56 / Trek Bicycle Madison East
 
 ## 数据质量规则
 
