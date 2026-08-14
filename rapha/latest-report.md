@@ -9,12 +9,12 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 3
 - Locally stocked store × SKU pairs: 116
-- Locally price-verified store offers: 60
-- Locally stocked pairs without verified store price: 56
+- Locally price-verified store offers: 63
+- Locally stocked pairs without verified store price: 53
 - Locally completed CONUS queries: 486; saturated: 36
 - Locally failed discovery queries: 0
-- Locally detail validation failures: 56
-- Total offers at least 10% off: 47
+- Locally detail validation failures: 53
+- Total offers at least 10% off: 50
 
 | Product | Price | MSRP / discount | Source | Store | Color | Size | SKU | UPC |
 | --- | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -24,6 +24,7 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=77625) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Bee Cave | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=240704) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Champions | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=240707) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Kingwood | Black | M | 5324607 | 5059526345138 |
+| [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=19760) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Encinitas | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=261798) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Jacksonville Beach | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=196444) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Corte Madera Marin | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=196441) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Berkeley | Black | M | 5324607 | 5059526345138 |
@@ -39,6 +40,7 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=322001) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Dayton Kettering | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=33066) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Cranberry | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=192405) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Cherry Hill | Black | M | 5324607 | 5059526345138 |
+| [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=339199) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle State College | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=333952) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Gig Harbor | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=33830) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Warwick | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=303203) | $187.50 | $210 / 10.7% | rapha_locally_widget | Blue Ridge Cyclery - Libbie Mill | Black | M | 5324607 | 5059526345138 |
@@ -58,6 +60,7 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=16028) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Flower Mound | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=200872) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Fort Worth South | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=240684) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Cypress | White | M | 5324502 | 5059526346517 |
+| [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=19760) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Encinitas | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=197226) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Murfreesboro | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=261798) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Jacksonville Beach | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=18374) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Cary | White | M | 5324502 | 5059526346517 |
@@ -86,4 +89,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-08-12; changes=0
+- Comparison: compared against 2026-08-13; changes=3
