@@ -4,18 +4,18 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Coverage method: conus_grid_300_miles
 
 - Official inventory points: 40
-- Official retailers discovered: 144
+- Official retailers discovered: 143
 - Official inventory queries: 320
 - Successful official inventory queries: 320
 - Failed official inventory queries: 0
 - Official inventory queries at observed 25-store cap: 2
-- States/DC with returned target inventory: 36/49
-- Missing states/DC: AL, AR, DE, LA, ME, MS, ND, NE, NM, OH, RI, WV, WY
-- Storefront search attempts: 408
-- Unique storefront hosts attempted: 123
+- States/DC with returned target inventory: 35/49
+- Missing states/DC: AL, AR, DE, LA, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
+- Storefront search attempts: 404
+- Unique storefront hosts attempted: 122
 - Searchable storefront hosts: 92
-- Hosts exposing BRAIN-compatible product candidates: 78
-- Unavailable storefront hosts (403/404): 28
+- Hosts exposing BRAIN-compatible product candidates: 77
+- Unavailable storefront hosts (403/404): 27
 - Warning storefront hosts: 3
 - Exact, in-stock verified offers: 129
 
@@ -153,7 +153,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 
 - Note: Coverage is limited to CONUS retailers returned from the official inventory endpoint and storefronts with a public BRAIN-compatible MPN search path.
 - Note: 2/320 official inventory queries returned 25 retailers, the observed per-query cap; the result is systematic discovery coverage, not a complete retailer enumeration.
-- Note: No target-model inventory was returned by the official discovery endpoint for 13 CONUS state/DC codes: AL, AR, DE, LA, ME, MS, ND, NE, NM, OH, RI, WV, WY.
+- Note: No target-model inventory was returned by the official discovery endpoint for 14 CONUS state/DC codes: AL, AR, DE, LA, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 10 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-09-02; changes=8
+- Comparison: compared against 2026-09-03; changes=0
