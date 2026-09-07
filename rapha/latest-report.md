@@ -8,13 +8,13 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 2
-- Locally stocked store × SKU pairs: 92
-- Locally price-verified store offers: 49
+- Locally stocked store × SKU pairs: 91
+- Locally price-verified store offers: 48
 - Locally stocked pairs without verified store price: 43
 - Locally completed CONUS queries: 486; saturated: 36
 - Locally failed discovery queries: 0
 - Locally detail validation failures: 43
-- Total offers at least 10% off: 35
+- Total offers at least 10% off: 34
 
 | Product | Price | MSRP / discount | Source | Store | Color | Size | SKU | UPC |
 | --- | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -59,7 +59,6 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=167578) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Tacoma University Place | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=375316) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle New Hartford | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=277890) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Fairfield | White | M | 5324502 | 5059526346517 |
-| [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=196441) | $99.93 | $175 / 42.9% | rapha_locally_widget | Trek Bicycle Berkeley | Dark Grey | M | 5333817 | 5059526464242 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://www.trekbikes.com/bikes-cycling-gear-on-sale/cycling-gear-on-sale/cycling-apparel-on-sale/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-training-cycling-jersey/p/47291/) | $100.75 | $175.0 / 42.4% | trek_us_online | Trek Bikes US online | Dark Grey | M | 5333817 | 5059526464242 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=17605) | $145.00 | $145 / 0.0% | rapha_locally_widget | Cahaba Cycles - Homewood | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=67506) | $145.00 | $145 / 0.0% | rapha_locally_widget | Bicycle Cove | White | M | 5324502 | 5059526346517 |
@@ -74,4 +73,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-09-05; changes=0
+- Comparison: compared against 2026-09-06; changes=1
