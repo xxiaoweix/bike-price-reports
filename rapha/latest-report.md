@@ -8,13 +8,13 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 2
-- Locally stocked store × SKU pairs: 90
-- Locally price-verified store offers: 48
-- Locally stocked pairs without verified store price: 42
+- Locally stocked store × SKU pairs: 88
+- Locally price-verified store offers: 47
+- Locally stocked pairs without verified store price: 41
 - Locally completed CONUS queries: 486; saturated: 36
 - Locally failed discovery queries: 0
-- Locally detail validation failures: 42
-- Total offers at least 10% off: 34
+- Locally detail validation failures: 41
+- Total offers at least 10% off: 32
 
 | Product | Price | MSRP / discount | Source | Store | Color | Size | SKU | UPC |
 | --- | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -31,7 +31,6 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=196439) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Santa Rosa | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=121026) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Chicago Wicker Park | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=167585) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Granger | Black | M | 5324607 | 5059526345138 |
-| [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=322001) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Dayton Kettering | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=192405) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Cherry Hill | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=33830) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Warwick | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=303203) | $187.50 | $210 / 10.7% | rapha_locally_widget | Blue Ridge Cyclery - Libbie Mill | Black | M | 5324607 | 5059526345138 |
@@ -48,7 +47,6 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=21355) | $69.93 | $145 / 51.8% | rapha_locally_widget | Trek Bicycle Williamsburg | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=280356) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Roseville | Navy | M | 5324492 | 5059526346333 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=16028) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Flower Mound | White | M | 5324502 | 5059526346517 |
-| [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=240684) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Cypress | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=261798) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Jacksonville Beach | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=18374) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Cary | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=167585) | $89.93 | $145 / 38.0% | rapha_locally_widget | Trek Bicycle Granger | White | M | 5324502 | 5059526346517 |
@@ -68,9 +66,10 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=413544) | $145.00 | $145 / 0.0% | rapha_locally_widget | Trek Bicycle Villa Park | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=30943) | $145.00 | $145 / 0.0% | rapha_locally_widget | Scott's Cycling & Fitness | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=33476) | $155.95 | $145 / -7.6% | rapha_locally_widget | Rotations Bicycle Center | White | M | 5324502 | 5059526346517 |
+| [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=108724) | $175.00 | $175 / 0.0% | rapha_locally_widget | Longmont Bicycle Company | Dark Grey | M | 5333817 | 5059526464242 |
 
 - Note: Online inventory is from Trek US. Local inventory and prices are public Locally widget observations for the exact selected SKU.
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-09-10; changes=0
+- Comparison: compared against 2026-09-11; changes=3
