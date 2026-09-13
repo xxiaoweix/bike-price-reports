@@ -8,12 +8,12 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 2
-- Locally stocked store × SKU pairs: 88
+- Locally stocked store × SKU pairs: 87
 - Locally price-verified store offers: 47
-- Locally stocked pairs without verified store price: 41
+- Locally stocked pairs without verified store price: 40
 - Locally completed CONUS queries: 486; saturated: 36
 - Locally failed discovery queries: 0
-- Locally detail validation failures: 41
+- Locally detail validation failures: 40
 - Total offers at least 10% off: 32
 
 | Product | Price | MSRP / discount | Source | Store | Color | Size | SKU | UPC |
@@ -72,4 +72,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-09-11; changes=3
+- Comparison: compared against 2026-09-12; changes=0
