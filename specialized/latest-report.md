@@ -4,30 +4,33 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Coverage method: conus_grid_300_miles
 
 - Official inventory points: 40
-- Official retailers discovered: 136
+- Official retailers discovered: 135
 - Official inventory queries: 320
 - Successful official inventory queries: 320
 - Failed official inventory queries: 0
 - Official inventory queries at observed 25-store cap: 2
-- States/DC with returned target inventory: 34/49
-- Missing states/DC: AL, AR, DE, GA, LA, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
-- Storefront search attempts: 382
+- States/DC with returned target inventory: 32/49
+- Missing states/DC: AL, AR, DE, GA, LA, MD, ME, MS, ND, NE, NM, OH, RI, VA, VT, WV, WY
+- Storefront search attempts: 376
 - Unique storefront hosts attempted: 117
-- Searchable storefront hosts: 87
+- Searchable storefront hosts: 85
 - Hosts exposing BRAIN-compatible product candidates: 73
-- Unavailable storefront hosts (403/404): 27
+- Unavailable storefront hosts (403/404): 29
 - Warning storefront hosts: 3
-- Exact, in-stock verified offers: 122
+- Exact, in-stock verified offers: 123
 
 | Model | Price | Store | Size | MPN | Color |
 | --- | ---: | --- | --- | --- | --- |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2900.00 | [Energy City Bikes](https://www.energycitybikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2900.00 | [Energy City Bikes](https://www.energycitybikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3039.99 | [Kozys Cyclery](https://www.kozy.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3199.99 | [Gung Ho Bikes](https://www.gunghobikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3199.99 | [Gung Ho Bikes](https://www.gunghobikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3399.99 | [Joe Fix Its](https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3399.99 | [Joe Fix Its](https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3399.99 | [Joe Fix Its](https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3399.99 | [Joe Fix Its](https://www.joefixits.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3420.00 | [Montclair Bikery](https://www.montclairbikery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.00 | [Eboom Electric Bicycles](https://www.eboomelectricbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.00 | [Eboom Electric Bicycles](https://www.eboomelectricbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.99 | [Wheeler Dealer Bicycle Shop](https://www.wdbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
@@ -49,14 +52,12 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.99 | [Tuckahoe Bike Shop Tuckahoe](https://www.tuckahoebikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.99 | [Ken's Bike-Ski-Board](https://www.kensbikeski.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3500.00 | [Criterium Bike Shop](https://www.criterium.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3500.00 | [The Spoke Shop](https://www.spokeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3500.00 | [Bicycle Sports Inc](https://www.bicyclesportsinc.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3500.00 | [The Spoke Shop](https://www.spokeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3500.00 | [The Spoke Shop](https://www.spokeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3649.99 | [Encina Bicycle Center](https://www.encinabicyclecenters.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3649.99 | [Encina Bicycle Center](https://www.encinabicyclecenters.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3650.00 | [Attitude Sports Inc](https://www.attitudesports.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3650.00 | [Blue Wheel Bicycles](https://www.bluewheel.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3650.00 | [Blue Wheel Bicycles](https://www.bluewheel.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3650.00 | [Attitude Sports Inc](https://www.attitudesports.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Pearland Bicycles](https://www.pearlandbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [The Bear Mountain](https://www.bearmountainbikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
@@ -67,6 +68,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Wheel Sport](https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Ski Hut](https://www.skihut.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Bicycle Centre Of Everett, Inc.](https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Littleton Bike & Fitness](https://www.littletonbike.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Landis Cyclery Inc](https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Hangar 15 Bicycles Inc](https://www.hangar15bicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Wheel Sport](https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
@@ -77,6 +79,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Calistoga Bike Shop](https://www.calistogabikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Wheel Sport](https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Bicycle Centre Of Everett, Inc.](https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Littleton Bike & Fitness](https://www.littletonbike.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Hangar 15 Bicycles Inc](https://www.hangar15bicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Wheel Sport](https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3799.99 | [Bicycle Centre Of Everett, Inc.](https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
@@ -87,7 +90,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Rubber Soul Bicycles](https://www.rubbersoulbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Sierra Cyclesmith Llc](https://www.sierracyclesmith.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bicycle Habitat](https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Montclair Bikery](https://www.montclairbikery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Greggs Greenlake Cycle](https://www.greggscycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bikebarn](https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bike Zoo The](https://www.bikezoo.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
@@ -104,8 +106,8 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Moab](https://www.moabbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bike Peddler](https://www.bikepeddlerutah.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Sierra Cyclesmith Llc](https://www.sierracyclesmith.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Center Cycle Inc](https://www.centercycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bicycle Habitat](https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Center Cycle Inc](https://www.centercycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Greggs Greenlake Cycle](https://www.greggscycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bike Zoo The](https://www.bikezoo.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Greenville Bike And Tri](https://www.greenvillebikeandtri.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
@@ -113,7 +115,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bicycle Habitat](https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Rubber Soul Bicycles](https://www.rubbersoulbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [The Bicycle Outfitter, Inc.](https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Center Cycle Inc](https://www.centercycle.com/itemdetails.cfm?libid=1244448) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
+| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Center Cycle Inc](https://www.centercycle.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Greggs Greenlake Cycle](https://www.greggscycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bikebarn](https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3875.00 | [Firehouse Cycles](https://www.firehousecycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
@@ -127,7 +129,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4499.99 | [Wheel Away Cycle Center Inc](https://www.wheelaway.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 56 | 94426-5256 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4499.99 | [The Bike Connection](https://www.bikeconnection.net/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 56 | 94426-5256 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4499.99 | [Calistoga Bike Shop](https://www.calistogabikeshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 56 | 94426-5256 | Gloss Glacial Metallic/White |
-| Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4499.99 | [Wheel Sport](https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 56 | 94426-5256 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4499.99 | [Orange Cycle](https://www.orangecycleorlando.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4499.99 | [Calistoga Bike Shop](https://www.calistogabikeshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4499.99 | [Healdsburg Spoke Folk Cyclery](https://www.spokefolk.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
@@ -146,7 +147,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 
 - Note: Coverage is limited to CONUS retailers returned from the official inventory endpoint and storefronts with a public BRAIN-compatible MPN search path.
 - Note: 2/320 official inventory queries returned 25 retailers, the observed per-query cap; the result is systematic discovery coverage, not a complete retailer enumeration.
-- Note: No target-model inventory was returned by the official discovery endpoint for 15 CONUS state/DC codes: AL, AR, DE, GA, LA, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
+- Note: No target-model inventory was returned by the official discovery endpoint for 17 CONUS state/DC codes: AL, AR, DE, GA, LA, MD, ME, MS, ND, NE, NM, OH, RI, VA, VT, WV, WY.
 - Note: 10 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-09-14; changes=4
+- Comparison: compared against 2026-09-15; changes=10
