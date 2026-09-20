@@ -8,8 +8,8 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 2
-- Locally stocked store × SKU pairs: 87
-- Locally price-verified store offers: 47
+- Locally stocked store × SKU pairs: 86
+- Locally price-verified store offers: 46
 - Locally stocked pairs without verified store price: 40
 - Locally completed CONUS queries: 486; saturated: 36
 - Locally failed discovery queries: 0
@@ -35,7 +35,6 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=33830) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Warwick | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=303203) | $187.50 | $210 / 10.7% | rapha_locally_widget | Blue Ridge Cyclery - Libbie Mill | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=14776) | $210.00 | $210 / 0.0% | rapha_locally_widget | Hills Sport Shop | Black | M | 5324607 | 5059526345138 |
-| [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=16578) | $210.00 | $210 / 0.0% | rapha_locally_widget | Helen's Cycles - Santa Monica | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=64939) | $210.00 | $210 / 0.0% | rapha_locally_widget | A&B Cycle | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=21327) | $210.00 | $210 / 0.0% | rapha_locally_widget | Wheels Unlimited | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=35624) | $210.00 | $210 / 0.0% | rapha_locally_widget | BICYCLE CONNECTION MD | Black | M | 5324607 | 5059526345138 |
@@ -72,4 +71,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-09-18; changes=0
+- Comparison: compared against 2026-09-19; changes=1
