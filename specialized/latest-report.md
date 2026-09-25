@@ -13,9 +13,9 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Missing states/DC: AL, AR, DE, GA, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
 - Storefront search attempts: 376
 - Unique storefront hosts attempted: 115
-- Searchable storefront hosts: 86
+- Searchable storefront hosts: 85
 - Hosts exposing BRAIN-compatible product candidates: 72
-- Unavailable storefront hosts (403/404): 26
+- Unavailable storefront hosts (403/404): 27
 - Warning storefront hosts: 3
 - Exact, in-stock verified offers: 120
 
@@ -147,4 +147,4 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Note: No target-model inventory was returned by the official discovery endpoint for 16 CONUS state/DC codes: AL, AR, DE, GA, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 10 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-09-23; changes=3
+- Comparison: compared against 2026-09-24; changes=0
