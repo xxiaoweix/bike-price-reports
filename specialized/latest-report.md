@@ -145,4 +145,4 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Note: No target-model inventory was returned by the official discovery endpoint for 16 CONUS state/DC codes: AL, AR, DE, GA, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 10 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-10-05; changes=0
+- Comparison: compared against 2026-10-06; changes=0
