@@ -4,7 +4,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Coverage method: conus_grid_300_miles
 
 - Official inventory points: 40
-- Official retailers discovered: 138
+- Official retailers discovered: 137
 - Official inventory queries: 320
 - Successful official inventory queries: 320
 - Failed official inventory queries: 0
@@ -12,12 +12,12 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - States/DC with returned target inventory: 34/49
 - Missing states/DC: AL, AR, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
 - Storefront search attempts: 382
-- Unique storefront hosts attempted: 115
-- Searchable storefront hosts: 86
+- Unique storefront hosts attempted: 114
+- Searchable storefront hosts: 84
 - Hosts exposing BRAIN-compatible product candidates: 70
-- Unavailable storefront hosts (403/404): 26
+- Unavailable storefront hosts (403/404): 27
 - Warning storefront hosts: 3
-- Exact, in-stock verified offers: 118
+- Exact, in-stock verified offers: 119
 
 | Model | Price | Store | Size | MPN | Color |
 | --- | ---: | --- | --- | --- | --- |
@@ -139,10 +139,11 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Bicycle Pro Shop](https://www.bicycleproshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [The Bicycle Outfitter, Inc.](https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Village Peddler](https://www.villagepeddler.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
+| Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Bicycle Centre Of Everett, Inc.](https://www.bicyclecentres.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 
 - Note: Coverage is limited to CONUS retailers returned from the official inventory endpoint and storefronts with a public BRAIN-compatible MPN search path.
 - Note: 2/320 official inventory queries returned 25 retailers, the observed per-query cap; the result is systematic discovery coverage, not a complete retailer enumeration.
 - Note: No target-model inventory was returned by the official discovery endpoint for 15 CONUS state/DC codes: AL, AR, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 10 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-10-11; changes=1
+- Comparison: compared against 2026-10-12; changes=1
