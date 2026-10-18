@@ -17,7 +17,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Hosts exposing BRAIN-compatible product candidates: 70
 - Unavailable storefront hosts (403/404): 27
 - Warning storefront hosts: 3
-- Exact, in-stock verified offers: 119
+- Exact, in-stock verified offers: 118
 
 | Model | Price | Store | Size | MPN | Color |
 | --- | ---: | --- | --- | --- | --- |
@@ -136,7 +136,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Bikebarn](https://www.bikebarnracing.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 56 | 94426-5256 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Village Peddler](https://www.villagepeddler.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 56 | 94426-5256 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Montlake Bicycle Shop](https://www.montlakebike.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 56 | 94426-5256 | Gloss Glacial Metallic/White |
-| Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Bicycle Pro Shop](https://www.bicycleproshop.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [The Bicycle Outfitter, Inc.](https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Village Peddler](https://www.villagepeddler.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
 | Specialized Roubaix SL8 Comp Shimano 105 Di2 (2026) | $4500.00 | [Bicycle Centre Of Everett, Inc.](https://www.bicyclecentres.com/product/specialized-roubaix-sl8-comp-1244666-1.htm) | 58 | 94426-5258 | Gloss Glacial Metallic/White |
@@ -146,4 +145,4 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Note: No target-model inventory was returned by the official discovery endpoint for 15 CONUS state/DC codes: AL, AR, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 10 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-10-16; changes=0
+- Comparison: compared against 2026-10-17; changes=1
