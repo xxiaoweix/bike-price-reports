@@ -7,18 +7,17 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Configured products: 3
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
-- Online in-stock SKU combinations: 3
+- Online in-stock SKU combinations: 2
 - Locally stocked store × SKU pairs: 44
 - Locally price-verified store offers: 42
 - Locally stocked pairs without verified store price: 2
 - Locally completed CONUS queries: 324; saturated: 24
 - Locally failed discovery queries: 0
 - Locally detail validation failures: 2
-- Total offers at least 10% off: 30
+- Total offers at least 10% off: 29
 
 | Product | Price | MSRP / discount | Source | Store | Color | Size | SKU | UPC |
 | --- | ---: | --- | --- | --- | --- | --- | --- | --- |
-| [Rapha Pro Team Lightweight Cycling Jersey (Men's)](https://www.trekbikes.com/bike-clothing/cycling-jerseys/road-bike-jerseys/mens-road-bike-jerseys/rapha-pro-team-lightweight-cycling-jersey/p/47289/) | $109.93 | $200.0 / 45.0% | trek_us_online | Trek Bikes US online | Navy | M | 5324467 | 5059526267416 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=240704) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Champions | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=240707) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Kingwood | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=261798) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Jacksonville Beach | Black | M | 5324607 | 5059526345138 |
@@ -68,4 +67,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-10-19; changes=0
+- Comparison: compared against 2026-10-20; changes=1
