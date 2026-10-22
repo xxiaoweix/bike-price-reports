@@ -4,19 +4,19 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Coverage method: conus_grid_300_miles
 
 - Official inventory points: 40
-- Official retailers discovered: 135
+- Official retailers discovered: 134
 - Official inventory queries: 320
 - Successful official inventory queries: 320
 - Failed official inventory queries: 0
 - Official inventory queries at observed 25-store cap: 2
 - States/DC with returned target inventory: 34/49
 - Missing states/DC: AL, AR, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
-- Storefront search attempts: 376
-- Unique storefront hosts attempted: 112
+- Storefront search attempts: 374
+- Unique storefront hosts attempted: 111
 - Searchable storefront hosts: 84
 - Hosts exposing BRAIN-compatible product candidates: 71
 - Unavailable storefront hosts (403/404): 25
-- Warning storefront hosts: 3
+- Warning storefront hosts: 2
 - Exact, in-stock verified offers: 119
 
 | Model | Price | Store | Size | MPN | Color |
@@ -144,6 +144,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Note: Coverage is limited to CONUS retailers returned from the official inventory endpoint and storefronts with a public BRAIN-compatible MPN search path.
 - Note: 2/320 official inventory queries returned 25 retailers, the observed per-query cap; the result is systematic discovery coverage, not a complete retailer enumeration.
 - Note: No target-model inventory was returned by the official discovery endpoint for 15 CONUS state/DC codes: AL, AR, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
-- Note: 8 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
+- Note: 6 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-10-20; changes=6
+- Comparison: compared against 2026-10-21; changes=0
