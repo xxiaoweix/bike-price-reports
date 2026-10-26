@@ -4,17 +4,17 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Coverage method: conus_grid_300_miles
 
 - Official inventory points: 40
-- Official retailers discovered: 132
+- Official retailers discovered: 131
 - Official inventory queries: 320
 - Successful official inventory queries: 320
 - Failed official inventory queries: 0
 - Official inventory queries at observed 25-store cap: 2
-- States/DC with returned target inventory: 34/49
-- Missing states/DC: AL, AR, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
-- Storefront search attempts: 370
-- Unique storefront hosts attempted: 109
-- Searchable storefront hosts: 83
-- Hosts exposing BRAIN-compatible product candidates: 70
+- States/DC with returned target inventory: 33/49
+- Missing states/DC: AL, AR, DC, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
+- Storefront search attempts: 368
+- Unique storefront hosts attempted: 108
+- Searchable storefront hosts: 82
+- Hosts exposing BRAIN-compatible product candidates: 69
 - Unavailable storefront hosts (403/404): 24
 - Warning storefront hosts: 2
 - Exact, in-stock verified offers: 118
@@ -142,7 +142,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 
 - Note: Coverage is limited to CONUS retailers returned from the official inventory endpoint and storefronts with a public BRAIN-compatible MPN search path.
 - Note: 2/320 official inventory queries returned 25 retailers, the observed per-query cap; the result is systematic discovery coverage, not a complete retailer enumeration.
-- Note: No target-model inventory was returned by the official discovery endpoint for 15 CONUS state/DC codes: AL, AR, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
+- Note: No target-model inventory was returned by the official discovery endpoint for 16 CONUS state/DC codes: AL, AR, DC, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 6 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-10-24; changes=1
+- Comparison: compared against 2026-10-25; changes=0
