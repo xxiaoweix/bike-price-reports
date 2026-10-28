@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-10-27
+# Trek 每日价格扫描 — 2026-10-28
 
 状态：**COMPLETE**
 
@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-10-27 13:04–13:18 PDT
+- 扫描时间：2026-10-28 13:14–13:28 PDT
 - Profile：`conus`
-- 成功报价：581
+- 成功报价：576
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 581, "ignored": 93}`
-- Trek 官方美国本土店铺：1867
-- Locally 可扫描店铺：1419
+- Offer tasks：`{"complete": 576, "ignored": 85}`
+- Trek 官方美国本土店铺：1866
+- Locally 可扫描店铺：1420
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：581
+- 有库存的门店-变体对：576
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -48,9 +48,10 @@
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21323) | $3,799.99 | Trek Bicycle Saratoga Springs | Saratoga Springs, NY | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21352) | $3,799.99 | Trek Bicycle Springfield | West Springfield, VA | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=282238) | $3,799.99 | Trek Bicycle Sugar Land | Sugar Land, TX | Dark Star to Bronze Age Fade | 56 | 197216282051 |
-| [$2,499.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=66725) | $3,799.99 | Mead's Bike Shop | Sterling, IL | Ivy Smoke | 56 | 197216282235 |
 | [$2,599.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=252520) | $3,799.99 | St. Joseph Bicycle Company | St. Joseph, MI | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,599.99](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=42750) | $3,799.99 | Village Cycle Center | Chicago, IL | Dark Star to Bronze Age Fade | 56 | 197216282051 |
+| [$2,699.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=207114) | $3,799.99 | George Garner Cyclery - Lake Zurich | Lake Zurich, IL | Ivy Smoke | 56 | 197216282235 |
+| [$2,699.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=35589) | $3,799.99 | George Garner Cyclery - Northbrook | Northbrook, IL | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 
 ### Trek Domane SL 6 Gen 4
 
@@ -176,7 +177,6 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=33563) | $3,499.99 | Rainbow Bicycle | Lewiston, ME | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=163906) | $3,499.99 | Ray's Bike Shop - Midland | Midland, MI | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=26821) | $3,499.99 | Revolution Bicycles Arcata | Arcata, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
-| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=159314) | $3,499.99 | Ride615 Bicycle Shop | Nashville, TN | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=26635) | $3,499.99 | Rochester Cycling | Rochester, MN | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=10994) | $3,499.99 | SCHEELS ALL SPORTS | Lincoln, NE | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=10995) | $3,499.99 | SCHEELS ALL SPORTS | Omaha, NE | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -281,7 +281,6 @@
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=214987) | $3,499.99 | Trek Bicycle Mandeville | Mandeville, LA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=197226) | $3,499.99 | Trek Bicycle Murfreesboro | Murfreesboro, TN | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=259225) | $3,499.99 | Trek Bicycle Napa | Napa, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
-| [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=375316) | $3,499.99 | Trek Bicycle New Hartford | New Hartford, NY | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21683) | $3,499.99 | Trek Bicycle Newington | Newington, CT | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=37158) | $3,499.99 | Trek Bicycle North County | San Marcos, CA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=144515) | $3,499.99 | Trek Bicycle North Raleigh | Raleigh, NC | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
@@ -452,15 +451,13 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-10-26 13:28–13:42 PDT → 2026-10-27 13:04–13:18 PDT
+对比基准：2026-10-27 13:04–13:18 PDT → 2026-10-28 13:14–13:28 PDT
 
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Cahaba Cycles - Cahaba Heights
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Jamestown Cycle Shop Inc
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Murfreesboro
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Warren Cycle Shop
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Beverly Hills
-- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Katy
+- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Mead's Bike Shop
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle New Hartford
+- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Boise West
+- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Bikes Palm Beach
 
 ## 数据质量规则
 
