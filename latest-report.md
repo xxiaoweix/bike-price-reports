@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-10-29
+# Trek 每日价格扫描 — 2026-10-30
 
 状态：**COMPLETE**
 
@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-10-29 13:15–13:29 PDT
+- 扫描时间：2026-10-30 12:55–13:09 PDT
 - Profile：`conus`
-- 成功报价：571
+- 成功报价：569
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 571, "ignored": 89}`
+- Offer tasks：`{"complete": 569, "ignored": 84}`
 - Trek 官方美国本土店铺：1866
 - Locally 可扫描店铺：1420
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：571
+- 有库存的门店-变体对：569
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -40,7 +40,6 @@
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=214987) | $3,799.99 | Trek Bicycle Mandeville | Mandeville, LA | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=259225) | $3,799.99 | Trek Bicycle Napa | Napa, CA | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21453) | $3,799.99 | Trek Bicycle Oklahoma City | Oklahoma City, OK | Dark Star to Bronze Age Fade | 56 | 197216282051 |
-| [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=261702) | $3,799.99 | Trek Bicycle Orlando College Park | Orlando, FL | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=192411) | $3,799.99 | Trek Bicycle Pasadena | Pasadena, CA | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=196442) | $3,799.99 | Trek Bicycle Redmond | Redmond, WA | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21530) | $3,799.99 | Trek Bicycle Salt Lake City Downtown | Salt Lake City, UT | Dark Star to Bronze Age Fade | 56 | 197216282051 |
@@ -446,20 +445,11 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-10-28 13:14–13:28 PDT → 2026-10-29 13:15–13:29 PDT
+对比基准：2026-10-29 13:15–13:29 PDT → 2026-10-30 12:55–13:09 PDT
 
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Cycology Bicycles
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Cambridge
-- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Trek Bicycle Stirling
-- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / The Bicycle Link $2,999.99 → $3,499.99
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Little River Trading Company
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Chelsea
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Columbia Maryland
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Upper West Side 72nd St.
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Walled Lake
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Westerville
-- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Trek Bicycle Upper East Side
-- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Holmes Cycling & Fitness
+- 涨价：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Alamo Heights $3,999.93 → $4,199.99
+- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Orlando College Park
+- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / White Prismatic / ML / Spoken Wheel Cyclery
 
 ## 数据质量规则
 
