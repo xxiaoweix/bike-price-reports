@@ -14,7 +14,7 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Locally completed CONUS queries: 324; saturated: 24
 - Locally failed discovery queries: 0
 - Locally detail validation failures: 2
-- Total offers at least 10% off: 27
+- Total offers at least 10% off: 26
 
 | Product | Price | MSRP / discount | Source | Store | Color | Size | SKU | UPC |
 | --- | ---: | --- | --- | --- | --- | --- | --- | --- |
@@ -24,7 +24,6 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=196441) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Berkeley | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=36932) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Shawnee | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=276642) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Roanoke | Black | M | 5324607 | 5059526345138 |
-| [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=33511) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Stafford Aquia Park | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=17526) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Ellicott City | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=196439) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Santa Rosa | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=121026) | $129.93 | $210 / 38.1% | rapha_locally_widget | Trek Bicycle Chicago Wicker Park | Black | M | 5324607 | 5059526345138 |
@@ -33,6 +32,7 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=303203) | $187.50 | $210 / 10.7% | rapha_locally_widget | Blue Ridge Cyclery - Libbie Mill | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=14776) | $210.00 | $210 / 0.0% | rapha_locally_widget | Hills Sport Shop | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=64939) | $210.00 | $210 / 0.0% | rapha_locally_widget | A&B Cycle | Black | M | 5324607 | 5059526345138 |
+| [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=33511) | $210.00 | $210 / 0.0% | rapha_locally_widget | Trek Bicycle Stafford Aquia Park | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=21327) | $210.00 | $210 / 0.0% | rapha_locally_widget | Wheels Unlimited | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=35624) | $210.00 | $210 / 0.0% | rapha_locally_widget | BICYCLE CONNECTION MD | Black | M | 5324607 | 5059526345138 |
 | [Rapha Pro Team Training Cycling Bib Shorts (Men's)](https://trek.locally.com/product/1914868/rapha-47307?store=389944) | $210.00 | $210 / 0.0% | rapha_locally_widget | Idle Times Bike Shop Eastham | Black | M | 5324607 | 5059526345138 |
@@ -65,4 +65,4 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-10-28; changes=1
+- Comparison: compared against 2026-10-29; changes=1
