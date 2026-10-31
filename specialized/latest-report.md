@@ -17,7 +17,7 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Hosts exposing BRAIN-compatible product candidates: 69
 - Unavailable storefront hosts (403/404): 24
 - Warning storefront hosts: 2
-- Exact, in-stock verified offers: 118
+- Exact, in-stock verified offers: 117
 
 | Model | Price | Store | Size | MPN | Color |
 | --- | ---: | --- | --- | --- | --- |
@@ -31,7 +31,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3420.00 | [Montclair Bikery](https://www.montclairbikery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.00 | [Eboom Electric Bicycles](https://www.eboomelectricbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.00 | [Eboom Electric Bicycles](https://www.eboomelectricbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.99 | [Landis Cyclery Inc](https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.99 | [The Bicycle Chain](https://www.thebicyclechain.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.99 | [Pro Bike + Run](https://www.probikerun.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3499.99 | [Tuckahoe Bike Shop Tuckahoe](https://www.tuckahoebikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
@@ -145,4 +144,4 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Note: No target-model inventory was returned by the official discovery endpoint for 16 CONUS state/DC codes: AL, AR, DC, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 6 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-10-29; changes=3
+- Comparison: compared against 2026-10-30; changes=1
