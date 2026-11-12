@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-11-11
+# Trek 每日价格扫描 — 2026-11-12
 
 状态：**COMPLETE**
 
@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-11-11 14:40–14:50 PST
+- 扫描时间：2026-11-12 14:14–14:29 PST
 - Profile：`conus`
-- 成功报价：580
+- 成功报价：582
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 580, "ignored": 84}`
-- Trek 官方美国本土店铺：1867
+- Offer tasks：`{"complete": 582, "ignored": 88}`
+- Trek 官方美国本土店铺：1868
 - Locally 可扫描店铺：1420
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：580
+- 有库存的门店-变体对：582
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -89,16 +89,15 @@
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=243954) | $3,499.99 | Trek Bicycle Rockford | Loves Park, IL | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=159009) | $3,499.99 | Trek Store of Savannah | Savannah, GA | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=205818) | $3,499.99 | WEST MICHIGAN BIKE & FITNESS | Kentwood, MI | Lava/Black Olive | ML | 197216040118 |
-| [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=205819) | $3,499.99 | West Michigan Bike & Fitness | Holland, MI | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,999.97](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=67753) | $3,499.99 | Wheelbase Bikes | Frederick, MD | Lava/Black Olive | ML | 197216040118 |
 
 ### Trek Checkpoint SL 6 AXS Gen 3
 
 | 价格 | MSRP | 门店 | 地点 | 颜色 | 尺码 | UPC |
 | ---: | ---: | --- | --- | --- | --- | --- |
-| [$3,499.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=42750) | $4,399.99 | Village Cycle Center | Chicago, IL | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.97](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=16696) | $4,399.99 | Eddy's Bike Shop | Akron, OH | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.97](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=348420) | $4,399.99 | Trek Bicycle Store Knoxville | Knoxville, TN | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
+| [$3,699.97](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=159205) | $4,399.99 | Trek Store of Charleston | Charleston, SC | Era White/Buff Beige | ML | 197216228257 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=21682) | $4,399.99 | Benidorm Bikes | Canton, CT | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=20164) | $4,399.99 | Bicycle Emporium | Auburn, CA | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=16674) | $4,399.99 | Bicycle Garage Indy & BGI Fitness - 82nd Street | Indianapolis, IN | Era White/Buff Beige | ML | 197216228257 |
@@ -141,6 +140,7 @@
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=277890) | $4,399.99 | Trek Bicycle Fairfield | Fairfield, CT | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=334998) | $4,399.99 | Trek Bicycle Fresno | Fresno, CA | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=251346) | $4,399.99 | Trek Bicycle Geneva | Geneva, NY | Era White/Buff Beige | ML | 197216228257 |
+| [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=333952) | $4,399.99 | Trek Bicycle Gig Harbor | Gig Harbor, WA | Era White/Buff Beige | ML | 197216228257 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=304500) | $4,399.99 | Trek Bicycle Grand Blanc | Flint, MI | Era White/Buff Beige | ML | 197216228257 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=242719) | $4,399.99 | Trek Bicycle Grand Junction | Grand Junction, CO | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=16781) | $4,399.99 | Trek Bicycle Henderson | Henderson, NV | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
@@ -183,20 +183,21 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-11-10 13:47–13:56 PST → 2026-11-11 14:40–14:50 PST
+对比基准：2026-11-11 14:40–14:50 PST → 2026-11-12 14:14–14:29 PST
 
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / NBX Bikes $3,499.99 → $2,999.97
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / SCHEELS ALL SPORTS
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Champions
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Cypress
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Loveland
-- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Raleigh Holly Park
-- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Trek Bicycle Reno
-- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Trek Bicycle Upper East Side
-- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / SCHEELS ALL SPORTS
-- 库存消失：Trek Domane SL 6 Gen 4 / Lunar Silver / 56 / Trek Bicycle Livermore
-- 库存消失：Trek Domane SL 5 Gen 4 / Ivy Smoke / 56 / Landis Cyclery Tempe North
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle College Station
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Columbus Dublin
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Jacksonville Lakeshore
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Lawrence
+- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Trek Store of Charleston
+- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Trek Bicycle Gig Harbor
+- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Trek Bike Shop of Vero Beach
+- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / West Michigan Bike & Fitness $2,999.97 → $3,499.99
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / SCHEELS ALL SPORTS
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Salt Lake City Downtown
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Stirling
+- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Village Cycle Center
 
 ## 数据质量规则
 
