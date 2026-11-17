@@ -8,8 +8,8 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 - Successful Trek product requests: 3
 - Failed Trek product requests: 0
 - Online in-stock SKU combinations: 1
-- Locally stocked store × SKU pairs: 42
-- Locally price-verified store offers: 40
+- Locally stocked store × SKU pairs: 43
+- Locally price-verified store offers: 41
 - Locally stocked pairs without verified store price: 2
 - Locally completed CONUS queries: 324; saturated: 24
 - Locally failed discovery queries: 0
@@ -58,10 +58,11 @@ Scope: selected men's Rapha SKUs. Sizes: M. Includes Trek US online and public L
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=413544) | $145.00 | $145 / 0.0% | rapha_locally_widget | Trek Bicycle Villa Park | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=30943) | $145.00 | $145 / 0.0% | rapha_locally_widget | Scott's Cycling & Fitness | White | M | 5324502 | 5059526346517 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=108724) | $175.00 | $175 / 0.0% | rapha_locally_widget | Longmont Bicycle Company | Dark Grey | M | 5333817 | 5059526464242 |
+| [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=68003) | $175.00 | $175 / 0.0% | rapha_locally_widget | Woolley G's Bike & Fitness | Dark Grey | M | 5333817 | 5059526464242 |
 | [Rapha Pro Team Training Cycling Jersey (Men's)](https://trek.locally.com/product/1914858/rapha-47291?store=21845) | $175.00 | $175 / 0.0% | rapha_locally_widget | Fair Wheel Bikes | Dark Grey | M | 5333817 | 5059526464242 |
 
 - Note: Online inventory is from Trek US. Local inventory and prices are public Locally widget observations for the exact selected SKU.
 - Note: Local discovery uses a deterministic CONUS grid. Saturated grid responses are reported as coverage gaps and never treated as no stock.
 - Note: Local stock observations are preserved even when store-detail price validation fails; only verified prices enter the offer table.
 
-- Comparison: compared against 2026-11-15; changes=0
+- Comparison: compared against 2026-11-17; changes=1
