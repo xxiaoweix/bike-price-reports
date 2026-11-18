@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-11-17
+# Trek 每日价格扫描 — 2026-11-18
 
 状态：**COMPLETE**
 
@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-11-17 15:29–15:43 PST
+- 扫描时间：2026-11-18 14:56–15:10 PST
 - Profile：`conus`
-- 成功报价：577
+- 成功报价：575
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 577, "ignored": 83}`
+- Offer tasks：`{"complete": 575, "ignored": 84}`
 - Trek 官方美国本土店铺：1869
-- Locally 可扫描店铺：1421
+- Locally 可扫描店铺：1420
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：577
+- 有库存的门店-变体对：575
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -41,7 +41,6 @@
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=259225) | $3,799.99 | Trek Bicycle Napa | Napa, CA | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21453) | $3,799.99 | Trek Bicycle Oklahoma City | Oklahoma City, OK | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=192411) | $3,799.99 | Trek Bicycle Pasadena | Pasadena, CA | Dark Star to Bronze Age Fade | 56 | 197216282051 |
-| [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21530) | $3,799.99 | Trek Bicycle Salt Lake City Downtown | Salt Lake City, UT | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=196439) | $3,799.99 | Trek Bicycle Santa Rosa | Santa Rosa, CA | Dark Star to Bronze Age Fade | 56 | 197216282051 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21323) | $3,799.99 | Trek Bicycle Saratoga Springs | Saratoga Springs, NY | Ivy Smoke | 56 | 197216282235 |
 | [$2,499.93](https://trek.locally.com/product/2331048/trek-domane-sl-5-gen-4?store=21352) | $3,799.99 | Trek Bicycle Springfield | West Springfield, VA | Ivy Smoke | 56 | 197216282235 |
@@ -89,10 +88,10 @@
 | ---: | ---: | --- | --- | --- | --- | --- |
 | [$2,499.00](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21524) | $3,499.99 | Biker's Edge | Kaysville, UT | Lava/Black Olive | ML | 197216040118 |
 | [$2,745.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=109794) | $3,499.99 | THE BIKE SHAK | York, PA | Lava/Black Olive | ML | 197216040118 |
+| [$2,799.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21341) | $3,499.99 | Bike Line | Middletown, DE | Lava/Black Olive | ML | 197216040118 |
 | [$2,949.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=109199) | $3,499.99 | Prairie Path Cycles | Winfield, IL | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.00](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=192393) | $3,499.99 | Phat Tire Bike Shop | Oklahoma City, OK | Lava/Black Olive | ML | 197216040118 |
 | [$2,999.00](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=223812) | $3,499.99 | Phat Tire Bike Shop | Edmond, OK | Lava/Black Olive | ML | 197216040118 |
-| [$2,999.93](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21781) | $3,499.99 | Bicycles Unlimited | St George, UT | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 
 ### Trek Checkpoint SL 6 AXS Gen 3
 
@@ -188,13 +187,14 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-11-16 16:13–16:26 PST → 2026-11-17 15:29–15:43 PST
+对比基准：2026-11-17 15:29–15:43 PST → 2026-11-18 14:56–15:10 PST
 
-- 降价：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Maplewood Bicycle $3,699.99 → $3,199.99
-- 降价：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Maplewood Bicycle $3,699.99 → $3,199.99
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Research
-- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Phat Tire Bike Shop
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Bike Line $2,999.99 → $2,799.99
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Mad Dog Cycles Orem $2,999.99 → $2,999.97
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Towson
+- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Salt Lake City Downtown
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Livermore
+- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Trek Bicycle Virginia Beach
 
 ## 数据质量规则
 
