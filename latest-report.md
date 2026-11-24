@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-11-22
+# Trek 每日价格扫描 — 2026-11-23
 
 状态：**COMPLETE**
 
@@ -6,16 +6,16 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-11-22 13:44–13:58 PST
+- 扫描时间：2026-11-23 18:54–19:07 PST
 - Profile：`conus`
-- 成功报价：576
+- 成功报价：577
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
-- Offer tasks：`{"complete": 576, "ignored": 88}`
+- Offer tasks：`{"complete": 577, "ignored": 86}`
 - Trek 官方美国本土店铺：1869
-- Locally 可扫描店铺：1420
+- Locally 可扫描店铺：1422
 - 有门店标记的州/DC：49
 - 缺失门店标记的州/DC：无
-- 有库存的门店-变体对：576
+- 有库存的门店-变体对：577
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
 - Source errors：0
@@ -124,6 +124,7 @@
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=17526) | $4,399.99 | Trek Bicycle Ellicott City | Ellicott City, MD | Era White/Buff Beige | ML | 197216228257 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=19760) | $4,399.99 | Trek Bicycle Encinitas | Encinitas, CA | Era White/Buff Beige | ML | 197216228257 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=277890) | $4,399.99 | Trek Bicycle Fairfield | Fairfield, CT | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
+| [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=200872) | $4,399.99 | Trek Bicycle Fort Worth South | Fort Worth, TX | Era White/Buff Beige | ML | 197216228257 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=334998) | $4,399.99 | Trek Bicycle Fresno | Fresno, CA | Dark Green/Ivy Smoke Splatter | ML | 197216228196 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=251346) | $4,399.99 | Trek Bicycle Geneva | Geneva, NY | Era White/Buff Beige | ML | 197216228257 |
 | [$3,699.99](https://trek.locally.com/product/2315135/trek-checkpoint-sl-6-axs-gen-3?store=333952) | $4,399.99 | Trek Bicycle Gig Harbor | Gig Harbor, WA | Era White/Buff Beige | ML | 197216228257 |
@@ -172,12 +173,12 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-11-21 13:38–13:52 PST → 2026-11-22 13:44–13:58 PST
+对比基准：2026-11-22 13:44–13:58 PST → 2026-11-23 18:54–19:07 PST
 
-- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Trek Bicycle Peoria
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Trek Bicycle Arlington South
-- 库存消失：Trek Checkpoint SL 6 AXS Gen 3 / Dark Green/Ivy Smoke Splatter / ML / Trek Bicycle Broomfield
-- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Holmes Cycling & Fitness
+- 新增库存：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Cardinal Bicycle - Grandin Village Bike Shop & Cafe
+- 新增库存：Trek Checkpoint SL 6 AXS Gen 3 / Era White/Buff Beige / ML / Trek Bicycle Fort Worth South
+- 涨价：Trek Domane SL 6 Gen 4 / Marianas Blue / 56 / Bike World $4,599.93 → $5,149.99
+- 库存消失：Trek Domane SL 5 Gen 4 / Dark Star to Bronze Age Fade / 56 / Jax Bicycle Center
 
 ## 数据质量规则
 
