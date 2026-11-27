@@ -11,13 +11,13 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Official inventory queries at observed 25-store cap: 10
 - States/DC with returned target inventory: 33/49
 - Missing states/DC: AL, AR, DC, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY
-- Storefront search attempts: 358
+- Storefront search attempts: 354
 - Unique storefront hosts attempted: 107
 - Searchable storefront hosts: 80
 - Hosts exposing BRAIN-compatible product candidates: 68
 - Unavailable storefront hosts (403/404): 25
 - Warning storefront hosts: 2
-- Exact, in-stock verified offers: 113
+- Exact, in-stock verified offers: 110
 
 | Model | Price | Store | Size | MPN | Color |
 | --- | ---: | --- | --- | --- | --- |
@@ -34,7 +34,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Bicycle Habitat](https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Landis Cyclery Inc](https://www.landiscyclery.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Greenville Bike And Tri](https://www.greenvillebikeandtri.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Bicycle Habitat](https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [The Bicycle Outfitter, Inc.](https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Wheel Sport](https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Two Wheeler Dealer](https://www.twowheelerskidealer.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
@@ -50,7 +49,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Bicycle Centre Of Everett, Inc.](https://www.bicyclecentres.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Bicycle Habitat](https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Greenville Bike And Tri](https://www.greenvillebikeandtri.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Bicycle Habitat](https://www.bicyclehabitat.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [The Bicycle Outfitter, Inc.](https://www.bicycleoutfitter.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Wheel Sport](https://www.wheelsportbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $2999.99 | [Greggs Greenlake Cycle](https://www.greggscycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6158 | Gloss Vivid Red/Obsidian |
@@ -102,7 +100,6 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Moab](https://www.moabbikes.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bike Peddler](https://www.bikepeddlerutah.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Rubber Soul Bicycles](https://www.rubbersoulbicycles.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
-| Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bikebarn](https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6056 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bike Zoo The](https://www.bikezoo.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Bikebarn](https://www.bikebarnracing.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 58 | 94426-6058 | Gloss Obsidian Metallic/Dune White |
 | Specialized Roubaix SL8 Sport Shimano 105 (2026) | $3800.00 | [Sunrise Bicycle Shop](https://www.sunrisebikeshop.com/product/specialized-roubaix-sl8-sport-1244448-1.htm) | 56 | 94426-6156 | Gloss Vivid Red/Obsidian |
@@ -140,4 +137,4 @@ Scope: systematic CONUS official-inventory discovery plus compatible public stor
 - Note: No target-model inventory was returned by the official discovery endpoint for 16 CONUS state/DC codes: AL, AR, DC, DE, LA, MD, ME, MS, ND, NE, NM, OH, RI, VT, WV, WY.
 - Note: 6 dealer storefront fetches were unavailable and excluded from this run; they will be retried on the next daily scan.
 
-- Comparison: compared against 2026-11-25; changes=1
+- Comparison: compared against 2026-11-26; changes=3
