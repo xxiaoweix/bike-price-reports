@@ -1,4 +1,4 @@
-# Trek 每日价格扫描 — 2026-11-26
+# Trek 每日价格扫描 — 2026-11-27
 
 状态：**COMPLETE**
 
@@ -6,7 +6,7 @@
 
 ## 覆盖与健康
 
-- 扫描时间：2026-11-26 16:33–16:46 PST
+- 扫描时间：2026-11-27 16:01–16:14 PST
 - Profile：`conus`
 - 成功报价：574
 - Coverage cells：`{"complete": 1881, "subdivided": 114}`
@@ -18,7 +18,7 @@
 - 有库存的门店-变体对：574
 - 已发现但尚未完成逐店取价：0
 - 饱和网格（含已细分父节点）：114
-- Source errors：0
+- Source errors：2
 
 ## 各车型最低报价
 
@@ -66,7 +66,6 @@
 | ---: | ---: | --- | --- | --- | --- | --- |
 | [$2,499.00](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21524) | $3,499.99 | Biker's Edge | Kaysville, UT | Lava/Black Olive | ML | 197216040118 |
 | [$2,699.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=17489) | $3,499.99 | Landry's Bicycles - Westboro | Westborough, MA | Lava/Black Olive | ML | 197216040118 |
-| [$2,699.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=17625) | $3,499.99 | Mad Dog Cycles Orem | Orem, UT | Lava/Black Olive | ML | 197216040118 |
 | [$2,745.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=109794) | $3,499.99 | THE BIKE SHAK | York, PA | Lava/Black Olive | ML | 197216040118 |
 | [$2,799.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=207356) | $3,499.99 | Bicycles Etc. | Jacksonville, FL | Trek Black/Matte Carbon Smoke | ML | 197216040057 |
 | [$2,799.99](https://trek.locally.com/product/2076440/trek-checkpoint-sl-5-axs-gen-3?store=21341) | $3,499.99 | Bike Line | Middletown, DE | Lava/Black Olive | ML | 197216040118 |
@@ -87,13 +86,10 @@
 
 ## 较上次完整 conus 扫描的变化
 
-对比基准：2026-11-25 16:18–16:31 PST → 2026-11-26 16:33–16:46 PST
+对比基准：2026-11-26 16:33–16:46 PST → 2026-11-27 16:01–16:14 PST
 
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Mad Dog Cycles Orem $2,999.99 → $2,699.99
-- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / NBX Bikes $3,499.99 → $2,999.97
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Ride615 Bicycle Shop
-- 库存消失：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / SCHEELS ALL SPORTS
-- 库存消失：Trek Domane SL 6 Gen 4 / Dark Star to Bronze Age Fade / 56 / Gear West
+- 降价：Trek Checkpoint SL 5 AXS Gen 3 / Trek Black/Matte Carbon Smoke / ML / Towpath Bike $2,999.97 → $2,849.99
+- 涨价：Trek Checkpoint SL 5 AXS Gen 3 / Lava/Black Olive / ML / Mad Dog Cycles Orem $2,699.99 → $2,999.99
 
 ## 数据质量规则
 
